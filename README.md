@@ -12,6 +12,7 @@ The data is stored in JSON format, and can be imported using *mongoimport*
 mongoimport --db "graph-who" --collection adversary adversary.json --drop
 mongoimport --db "graph-who" --collection companion companion.json --drop
 mongoimport --db "graph-who" --collection cypher cypher.json --drop
+mongoimport --db "graph-who" --collection cypher syntax.json --drop
 
 ```
 
