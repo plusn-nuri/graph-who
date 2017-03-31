@@ -1,4 +1,0 @@
-{"_id":"dr", "arc":"amy"}
-{"_id":"amy", "arc":["rory","river"]}
-{"_id":"rory", "arc":["amy","river"]}
-{"_id":"river", "arc": ["dr","amy","rory"]}
