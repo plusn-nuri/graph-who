@@ -14,6 +14,7 @@ mongoimport --db "graph-who" --collection companion companion.json --drop
 mongoimport --db "graph-who" --collection cypher cypher.json --drop
 mongoimport --db "graph-who" --collection arcs arcs.json --drop
 mongoimport --db "graph-who" --collection nodes nodes.json --drop
+mongoimport --db "graph-who" --collection people people.json --drop
 ```
 
 ### Syntax Basics
