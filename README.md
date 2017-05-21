@@ -108,6 +108,7 @@ Connected to
 
 #### Data sources used for creating this exploration include:
 1.   https://docs.google.com/spreadsheets/d/1-wpscGBquVJnI5i9lIygBQWW-OrP_ypDng4ZuQvwLeU/edit#gid=0
-42.   Wikipedia,
-3.   Fan pages,
-9.   Dr. Who TV series pages.
+42.   Wikipedia
+3.   Fan pages
+9.   Dr. Who TV series pages
+11.  Arbitrary data for demo purposes
