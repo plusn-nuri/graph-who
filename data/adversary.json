@@ -1,445 +1,445 @@
-{"_id":"Daleks","fy":1963,"ly":2010,"doctor":[1, 2, 3, 4, 5, 6, 7, 9, 10, 11],"seen":104,"cases":34,"motive":"Earth invasion/Human extermination"}
-{"_id":"Cybermen","fy":1966,"ly":2013,"doctor":[1, 2, 3, 4, 5, 6, 7, 10, 11],"seen":57,"cases":25,"motive":"Earth invasion/Human extermination"}
-{"_id":"Master (the)","fy":1971,"ly":2009,"doctor":[3,4,5,6,7,8,10],"seen":84,"cases":22,"motive":"Universal control"}
-{"_id":"Dalek Supreme (Supreme Dalek), inc Progenitor","fy":1964,"ly":2010,"doctor":[1, 2, 3, 4, 5, 6, 7, 10, 11],"seen":63,"cases":14,"motive":"Earth invasion/Human extermination"}
-{"_id":"Sontarans","fy":1973,"ly":2008,"doctor":[2,3,4,6,10,11],"seen":21,"cases":9,"motive":"War, world domination"}
-{"_id":"Ice Warriors (inc benevolent appearences)","fy":1967,"ly":2013,"doctor":[2,3,11],"seen":25,"cases":7,"motive":"Absorb planets"}
-{"_id":"Silurians (exc Sea Devils)","fy":1970,"ly":2010,"doctor":[3,5,11],"seen":16,"cases":6,"motive":"World domination"}
-{"_id":"Davros","fy":1975,"ly":2008,"doctor":[4, 5, 6, 7, 10],"seen":22,"cases":6,"motive":"Earth invasion/Human extermination"}
-{"_id":"Cyber-leader","fy":1975,"ly":1988,"doctor":[1,2,3,4,5,6,7],"seen":14,"cases":5,"motive":"Serve big bad "}
-{"_id":"Great Intelligence, the (Yog-Sothoth)","fy":1967,"ly":2013,"doctor":[2,11],"seen":15,"cases":5,"motive":"World domination"}
-{"_id":"Black Guardian (the)","fy":1978,"ly":1979,"doctor":[4,5],"seen":18,"cases":5,"motive":"Wants evil"}
-{"_id":"Kovarian, Madame","fy":2011,"ly":2011,"doctor":[11],"seen":5,"cases":4,"motive":"Kill Doctor and companions"}
-{"_id":"Ood, the (Oodkind), inc benevolent appearances","fy":2006,"ly":2010,"doctor":[10,11],"seen":6,"cases":4,"motive":"Serve big bad"}
-{"_id":"Autons (Marcellas, Commander and Claudio)","fy":1970,"ly":2010,"doctor":[3,9,11],"seen":11,"cases":4,"motive":"Defeat the Doctor"}
-{"_id":"Cybermat","fy":1967,"ly":2011,"doctor":[2,4,11],"seen":15,"cases":4,"motive":"Serve big bad"}
-{"_id":"Borusa","fy":1976,"ly":1983,"doctor":[1, 2, 3, 4, 5],"seen":15,"cases":4,"motive":"Wants immortality"}
-{"_id":"Judoon","fy":2007,"ly":2010,"doctor":[10,11],"seen":3,"cases":3,"motive":"Obey bureaucracy"}
-{"_id":"Roboforms","fy":2005,"ly":2010,"doctor":[10,11],"seen":3,"cases":3,"motive":"Scavengers/Imprison the Doctor"}
-{"_id":"Weeping Angels","fy":2007,"ly":2012,"doctor":[10,11],"seen":4,"cases":3,"motive":"Kill, trap in time"}
-{"_id":"Silence (the)","fy":2011,"ly":2011,"doctor":[11],"seen":4,"cases":3,"motive":"World domination"}
-{"_id":"Rani (the)","fy":1985,"ly":1993,"doctor":[3,4,5,6,7],"seen":8,"cases":3,"motive":"Enslavement, Medical experimentation"}
-{"_id":"Nestene Consciousness","fy":1970,"ly":2010,"doctor":[3,9],"seen":9,"cases":3,"motive":"Universal control"}
-{"_id":"Glitz, Sabalom","fy":1986,"ly":1987,"doctor":[6,7],"seen":9,"cases":3,"motive":"Self-interest"}
-{"_id":"Yeti","fy":1967,"ly":1983,"doctor":[1,2,3,4,5],"seen":13,"cases":3,"motive":"Serve big bad"}
-{"_id":"Valeyard (the)","fy":1986,"ly":1986,"doctor":[6],"seen":18,"cases":3,"motive":"Kill the Doctor"}
-{"_id":"Atraxi","fy":2010,"ly":2010,"doctor":[11],"seen":2,"cases":2,"motive":"World domination"}
-{"_id":"Hoix","fy":2006,"ly":2010,"doctor":[10,11],"seen":2,"cases":2,"motive":"Consume everything/Imprison the Doctor"}
-{"_id":"Sycorax (Fadros Pullujikaa)","fy":2005,"ly":2010,"doctor":[10,11],"seen":2,"cases":2,"motive":"World domination"}
-{"_id":"Casp, Matron","fy":2006,"ly":2007,"doctor":[10],"seen":2,"cases":2,"motive":"Medical experiments"}
-{"_id":"Dexter","fy":2007,"ly":2007,"doctor":[10],"seen":2,"cases":2,"motive":"Locate the Doctor and his companions"}
-{"_id":"New Humans","fy":2006,"ly":2007,"doctor":[10],"seen":2,"cases":2,"motive":"Sabotage"}
-{"_id":"Pig Slave","fy":2007,"ly":2007,"doctor":[10],"seen":2,"cases":2,"motive":"Kill humans"}
-{"_id":"Sisters of Plenitude (Hame, Jaff)","fy":2006,"ly":2007,"doctor":[10],"seen":2,"cases":2,"motive":"Power, experimented on humans"}
-{"_id":"Cassandra, Lady (Cassandra O'Brien.Δ17)","fy":2005,"ly":2006,"doctor":[9,10],"seen":2,"cases":2,"motive":"Make money"}
-{"_id":"Droid, Anne ","fy":2005,"ly":2005,"doctor":[9,10],"seen":2,"cases":2,"motive":"Kill humans"}
-{"_id":"Rodrick","fy":2005,"ly":2005,"doctor":[9,10],"seen":2,"cases":2,"motive":"money (prize money)"}
-{"_id":"Rassilon","fy":1983,"ly":2010,"doctor":[1,2,3,4,5,10,11],"seen":3,"cases":2,"motive":"Power"}
-{"_id":"Slitheen (Strickland, Margaret Blaine and Oliver Charles)","fy":2005,"ly":2005,"doctor":[9],"seen":3,"cases":2,"motive":"World domination, kill humans"}
-{"_id":"Terrible Zodin","fy":1983,"ly":1985,"doctor":[1,2,3,4,6],"seen":3,"cases":2,"motive":"attack the Doctor"}
-{"_id":"Saxon, Lucy","fy":2007,"ly":2010,"doctor":[10],"seen":4,"cases":2,"motive":"Serve big bad"}
-{"_id":"Cult of Skaro (inc Dalek Sec and three others) ","fy":2006,"ly":2007,"doctor":[10],"seen":4,"cases":2,"motive":"Earth invasion/Human extermination/Human-Dalek hybrid"}
-{"_id":"Lytton, Commander Gustav","fy":1983,"ly":1985,"doctor":[5,6],"seen":4,"cases":2,"motive":"Serve big bad"}
-{"_id":"Zygons","fy":1975,"ly":2012,"doctor":[4,11],"seen":5,"cases":2,"motive":"Invade earth"}
-{"_id":"Macra (the)","fy":1967,"ly":2007,"doctor":[2,10],"seen":5,"cases":2,"motive":"Kill everything"}
-{"_id":"Sil","fy":1985,"ly":1986,"doctor":[6],"seen":6,"cases":2,"motive":"Exploitation"}
-{"_id":"Cyber-controller","fy":1967,"ly":1985,"doctor":[2,6],"seen":6,"cases":2,"motive":"Earth invasion/Human extermination"}
-{"_id":"Kamelion (inc benevolent appearences)","fy":1983,"ly":1984,"doctor":[5],"seen":6,"cases":2,"motive":"Serve big bad"}
-{"_id":"Mara (the), (Dukkha)","fy":1982,"ly":1983,"doctor":[5],"seen":8,"cases":2,"motive":"Feeds off fear"}
-{"_id":"Omega","fy":1972,"ly":1983,"doctor":[1,2,3,5],"seen":8,"cases":2,"motive":"Revenge"}
-{"_id":"Meddling Monk (the)","fy":1965,"ly":1966,"doctor":[1],"seen":8,"cases":2,"motive":"Interfere with history"}
-{"_id":"Sea Devils","fy":1972,"ly":1984,"doctor":[3,5],"seen":10,"cases":2,"motive":"Capture the Doctor"}
-{"_id":"Ogrons ","fy":1972,"ly":1973,"doctor":[3],"seen":10,"cases":2,"motive":"Serve big bad"}
-{"_id":"Goth (Gothaparduskerialldrapolatkh)","fy":1969,"ly":1976,"doctor":[2,4],"seen":14,"cases":2,"motive":"Serve big bad, power"}
-{"_id":"Mortimus ","fy":1965,"ly":1966,"doctor":[1],"seen":16,"cases":2,"motive":"Meddle with time"}
-{"_id":"Forest Monster","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Find mate"}
-{"_id":"Grandfather (Akhaten)","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Feed off memories and feelings"}
-{"_id":"KIslet, Miss","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Serve Big Bad/upload humans"}
-{"_id":"Mrs Gillyflower","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Divine justice"}
-{"_id":"Mummy, The","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Serve Big Bad"}
-{"_id":"Spoonheads","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Time Zombie","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Hunt past selves"}
-{"_id":"Vigil, The","fy":2013,"ly":2013,"doctor":[11],"seen":1,"cases":1,"motive":"Serve Big Bad"}
-{"_id":"Dala, Dalek puppet","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Dalek prime minister","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Protecting the Daleks"}
-{"_id":"Grayle","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Collect Weeping Angels"}
-{"_id":"Shakri","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Destroy humans"}
-{"_id":"Simeon, Dr","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Snowmen, The","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Serve Big Bad"}
-{"_id":"Soloman","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Profit"}
-{"_id":"Soloman's robots (x2)","fy":2012,"ly":2012,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Gantok","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Handbots","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Kill with kindness"}
-{"_id":"Headless Monks","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"House","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Absorb planets, TARDIS'"}
-{"_id":"Justice Department, The","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Kill the Doctor"}
-{"_id":"Manton, Colonel","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Kill Doctor and companions"}
-{"_id":"Minotaur, The","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Feed on beliefs"}
-{"_id":"Peg dolls","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Turn humans into dolls"}
-{"_id":"Pond, Melody (before redemption)","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Teselecta","fy":2011,"ly":2011,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Alliance - onscreen - Daleks, Cybermen, Sontarans & Autons, (cameos Silurians, Sycorax, Judoon, Hoix, Roboforms, microcameos Blowfish, Uvodni, Weevils)","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor"}
-{"_id":"Blowfish","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor"}
-{"_id":"Calvierri, Signora Rosanna","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"reproduce"}
-{"_id":"Carlo ","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Dream Lord","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Defeat the Doctor"}
-{"_id":"Eknodine","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Control humans, survival"}
-{"_id":"Francesco","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Hawthorne","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Power"}
-{"_id":"Krafayis","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Hunt  "}
-{"_id":"Number 79B, Alckman Road","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Capture humans"}
-{"_id":"Poggit (Mrs)","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Prisoner Zero","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Fugative"}
-{"_id":"Restac","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"World domination"}
-{"_id":"Saturnynians","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"World domination"}
-{"_id":"Smilers (Winders)","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Uvodni","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor"}
-{"_id":"Weevils","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor"}
-{"_id":"Winder ","fy":2010,"ly":2010,"doctor":[11],"seen":1,"cases":1,"motive":"Protect "}
-{"_id":"Flood (the)","fy":2009,"ly":2009,"doctor":[10],"seen":1,"cases":1,"motive":"Viral infection"}
-{"_id":"MacMillan (DI)","fy":2009,"ly":2009,"doctor":[10],"seen":1,"cases":1,"motive":"Career"}
-{"_id":"Stingray","fy":2009,"ly":2009,"doctor":[10],"seen":1,"cases":1,"motive":"Self interest (food)"}
-{"_id":"Swarm (Alien Stingray)","fy":2009,"ly":2009,"doctor":[10],"seen":1,"cases":1,"motive":"Destroy all life"}
-{"_id":"Adipose Industries ","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Control the World"}
-{"_id":"Cobb, General","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"War"}
-{"_id":"Cofelia, Matron (Miss Foster)","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"reproducing"}
-{"_id":"Cybershades","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Dextrus, Lucias Petrus","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Dominate the world"}
-{"_id":"Fortune Teller","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Manipulating the past"}
-{"_id":"Golightly, Arnold","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Halpen, Klineman","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Kill an alien species"}
-{"_id":"Hartigan, Mercy","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Human dictatorship/enslavement"}
-{"_id":"Hath","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"War"}
-{"_id":"Kess","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Power"}
-{"_id":"Krillitane","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Self interest"}
-{"_id":"Midnight Entity","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Survival"}
-{"_id":"Pyroviles","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"World domination"}
-{"_id":"Time Beetle","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Meddle with time, creating parallel universes"}
-{"_id":"Unicorn (the)","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"steal jewels"}
-{"_id":"Vespiforms","fy":2008,"ly":2008,"doctor":[10],"seen":1,"cases":1,"motive":"Research, not in control of powers"}
-{"_id":"Bloodtide","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Capricorn, Max","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Bankrupt company"}
-{"_id":"Carrionites","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"World domination"}
-{"_id":"Diagoras (Mr)","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Run New York city"}
-{"_id":"Futurekind","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Hardaker","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad, make money for family"}
-{"_id":"Heavenly Host ","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Lazarus, Professor Richard","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Lilith","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Control Humans"}
-{"_id":"Mysterious Man","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Power/ serve big bad"}
-{"_id":"Plasmavores (Florence Finnegan)","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Drink blood"}
-{"_id":"Slab","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Torajii System Sun","fy":2007,"ly":2007,"doctor":[10],"seen":1,"cases":1,"motive":"Posess crew members"}
-{"_id":"Abzorbaloff (Victor Kennedy)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Angelo","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Create new empire"}
-{"_id":"Brethren (the), inc Father Angelo","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Catkind (Sisters of Plenitude), exc Novice Hame","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Experiments on humans"}
-{"_id":"Chip","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Serve big bad "}
-{"_id":"Clockwork Repair Droids","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Take brain, repair ship"}
-{"_id":"Corvin","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Medical experiments"}
-{"_id":"Father Angelo","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Finch, Mr (Lassar)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Host (the)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Kill everything"}
-{"_id":"Isolus flowers (Scribble Monster)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Self interest"}
-{"_id":"Jackson (Mrs)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Dominate the universe"}
-{"_id":"Lupine Wavelength Haemovariform (werewolf)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Kill everything"}
-{"_id":"Magpie (Mr)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Career"}
-{"_id":"Racnoss, Empress of the","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Kill humans"}
-{"_id":"Wagner","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Control time and the universe"}
-{"_id":"Wire (the)","fy":2006,"ly":2006,"doctor":[10],"seen":1,"cases":1,"motive":"Erase thoughts"}
-{"_id":"Adherents of the Repeated Meme","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Automated Corpse","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Charles, Oliver","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Kill politician"}
-{"_id":"Davinadroid","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Controll Humans"}
-{"_id":"Editor","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Control Humans"}
-{"_id":"Gelth (the)/Gelth Ambassador","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"World domination"}
-{"_id":"Jagrafess","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Control Humans"}
-{"_id":"James, Tennant","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Power"}
-{"_id":"McAllister, Ewan","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Metal Spiders","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Reapers","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Sterilise time disturbances"}
-{"_id":"Sneed, Gabriel","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Self interest"}
-{"_id":"Surgeons","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"Trin-E","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"van Statten, Henry","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Corruption"}
-{"_id":"Zu-Zana","fy":2005,"ly":2005,"doctor":[9],"seen":1,"cases":1,"motive":"Serve big bad"}
-{"_id":"San Francisco street gang","fy":1996,"ly":1996,"doctor":[7,8],"seen":1,"cases":1,"motive":"Turf war (shoots doctor)"}
-{"_id":"Raston Warrior Robot","fy":1983,"ly":1983,"doctor":[1,2,3,4,5],"seen":1,"cases":1,"motive":"Kill everything"}
-{"_id":"Red Carnivorous Maw","fy":2009,"ly":2010,"doctor":[10],"seen":2,"cases":1,"motive":"World domination"}
-{"_id":"Alaya","fy":2010,"ly":2010,"doctor":[11],"seen":2,"cases":1,"motive":"Capture humans"}
-{"_id":"Angel Bob","fy":2010,"ly":2010,"doctor":[11],"seen":2,"cases":1,"motive":"Kill humans"}
-{"_id":"Naismith, Joshua","fy":2009,"ly":2010,"doctor":[10,11],"seen":2,"cases":1,"motive":"Immortality"}
-{"_id":"Gray, Steve","fy":2008,"ly":2008,"doctor":[10],"seen":2,"cases":1,"motive":"Serve big bad, fight"}
-{"_id":"Harris, Private Carl","fy":2008,"ly":2008,"doctor":[10],"seen":2,"cases":1,"motive":"Serve big bad, fight"}
-{"_id":"Martha Jones- Clone","fy":2008,"ly":2008,"doctor":[10],"seen":2,"cases":1,"motive":"Serve big bad"}
-{"_id":"Rattigan, Luke","fy":2008,"ly":2008,"doctor":[10],"seen":2,"cases":1,"motive":"World domination"}
-{"_id":"Staal","fy":2008,"ly":2008,"doctor":[10],"seen":2,"cases":1,"motive":"World domination"}
-{"_id":"Vashta Nerada","fy":2008,"ly":2008,"doctor":[10],"seen":2,"cases":1,"motive":"Consume lifeforms"}
-{"_id":"Daughter of Mine","fy":2007,"ly":2007,"doctor":[10],"seen":2,"cases":1,"motive":"Infiltrate places"}
-{"_id":"Family of Blood","fy":2007,"ly":2007,"doctor":[10],"seen":2,"cases":1,"motive":"Kill/take control of humans and the Doctor"}
-{"_id":"Kaliko (swabb)","fy":2007,"ly":2007,"doctor":[10],"seen":2,"cases":1,"motive":"Steal oil, make money"}
-{"_id":"Toclafane","fy":2007,"ly":2007,"doctor":[10],"seen":2,"cases":1,"motive":"Self interest"}
-{"_id":"Beast (the)","fy":2006,"ly":2006,"doctor":[10],"seen":2,"cases":1,"motive":"Satan Figure"}
-{"_id":"Crane (Mr)","fy":2006,"ly":2006,"doctor":[10],"seen":2,"cases":1,"motive":"Serve big bad "}
-{"_id":"Hartman, Yvonne","fy":2006,"ly":2006,"doctor":[10],"seen":2,"cases":1,"motive":"Assist Cybermen"}
-{"_id":"Lumic, John","fy":2006,"ly":2006,"doctor":[10],"seen":2,"cases":1,"motive":"Immortality, medical experiments, kill humans"}
-{"_id":"Empty Child","fy":2005,"ly":2005,"doctor":[9],"seen":2,"cases":1,"motive":"Kill humans"}
-{"_id":"Green, Joseph","fy":2005,"ly":2005,"doctor":[9],"seen":2,"cases":1,"motive":"Cause World War Three"}
-{"_id":"Borad","fy":1985,"ly":1985,"doctor":[6],"seen":2,"cases":1,"motive":"Kill humans"}
-{"_id":"Karfelon androids","fy":1985,"ly":1985,"doctor":[6],"seen":2,"cases":1,"motive":"Serve big bad"}
-{"_id":"Quillam","fy":1985,"ly":1985,"doctor":[6],"seen":2,"cases":1,"motive":"Experiments on humans"}
-{"_id":"Tekker","fy":1985,"ly":1985,"doctor":[6],"seen":2,"cases":1,"motive":"Serve big bad"}
-{"_id":"Dalek Duplicates","fy":1984,"ly":1984,"doctor":[5],"seen":2,"cases":1,"motive":"Serve big bad"}
-{"_id":"Hutchinson, Sir George","fy":1984,"ly":1984,"doctor":[5],"seen":2,"cases":1,"motive":"Power"}
-{"_id":"Malus","fy":1984,"ly":1984,"doctor":[5],"seen":2,"cases":1,"motive":"Kill other alien species"}
-{"_id":"Cranleigh, George","fy":1982,"ly":1982,"doctor":[5],"seen":2,"cases":1,"motive":"Kill humans"}
-{"_id":"Bennett (Koquillion)","fy":1965,"ly":1965,"doctor":[1],"seen":2,"cases":1,"motive":"Kill humans"}
-{"_id":"Cheetah people","fy":1989,"ly":1989,"doctor":[7],"seen":3,"cases":1,"motive":"Serve big bad"}
-{"_id":"Light","fy":1989,"ly":1989,"doctor":[7],"seen":3,"cases":1,"motive":"Destroy all life"}
-{"_id":"Smith, Josiah Samuel (Survey)","fy":1989,"ly":1989,"doctor":[7],"seen":3,"cases":1,"motive":"Destroy all life"}
-{"_id":"De Flores","fy":1988,"ly":1988,"doctor":[7],"seen":3,"cases":1,"motive":"Human dictatorship, establish fourth reich,Fascist stooge"}
-{"_id":"Happiness Patrol (the)","fy":1988,"ly":1988,"doctor":[7],"seen":3,"cases":1,"motive":"Serve big bad"}
-{"_id":"Helen A","fy":1988,"ly":1988,"doctor":[7],"seen":3,"cases":1,"motive":"Human dictatorship/enslavement"}
-{"_id":"Kandyman","fy":1988,"ly":1988,"doctor":[7],"seen":3,"cases":1,"motive":"Dictatorship/enslavement"}
-{"_id":"Neo-Nazis, Windsor","fy":1988,"ly":1988,"doctor":[7],"seen":3,"cases":1,"motive":"Fascist stooge"}
-{"_id":"Peinforte, Lady","fy":1988,"ly":1988,"doctor":[7],"seen":3,"cases":1,"motive":"Wanted ownership of a weapon"}
-{"_id":"Bannermen","fy":1987,"ly":1987,"doctor":[7],"seen":3,"cases":1,"motive":"World domination"}
-{"_id":"Kane","fy":1987,"ly":1987,"doctor":[7],"seen":3,"cases":1,"motive":"Kill another alien species"}
-{"_id":"Chessene of the Franzine Grig","fy":1985,"ly":1985,"doctor":[2,6],"seen":3,"cases":1,"motive":"Get a time machine"}
-{"_id":"Dastari, Joinson","fy":1985,"ly":1985,"doctor":[2,6],"seen":3,"cases":1,"motive":"Medical experiments"}
-{"_id":"Shockeye of the Quawncing Grig ","fy":1985,"ly":1985,"doctor":[2,6],"seen":3,"cases":1,"motive":"Eat human flesh"}
-{"_id":"Stike","fy":1985,"ly":1985,"doctor":[2,6],"seen":3,"cases":1,"motive":"Make time machine"}
-{"_id":"Varl","fy":1985,"ly":1985,"doctor":[2,6],"seen":3,"cases":1,"motive":"Possess time travel"}
-{"_id":"Varla","fy":1967,"ly":1967,"doctor":[2],"seen":3,"cases":1,"motive":"Possess time travel"}
-{"_id":"Forester","fy":1964,"ly":1964,"doctor":[1],"seen":3,"cases":1,"motive":"Money"}
-{"_id":"Chief Clown","fy":1988,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Clown robots","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Destroyer","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Defeat the Doctor"}
-{"_id":"Fenric","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Control Humans"}
-{"_id":"Gavrok","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Kill another alien species"}
-{"_id":"Gods of Ragnarok","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Kill alien species/enslavement"}
-{"_id":"Haemovores (inc Ancient One)","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Ingiger","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Control alien species"}
-{"_id":"Millington, Commander AH","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Mordred","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Morgaine","fy":1989,"ly":1989,"doctor":[7],"seen":4,"cases":1,"motive":"War"}
-{"_id":"Association (the)","fy":1988,"ly":1988,"doctor":[7],"seen":4,"cases":1,"motive":"Fascist stooge"}
-{"_id":"Ratcliffe, George","fy":1988,"ly":1988,"doctor":[7],"seen":4,"cases":1,"motive":"Ally with the Nazis"}
-{"_id":"Chief Caretaker","fy":1987,"ly":1987,"doctor":[7],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Kroagnon","fy":1987,"ly":1987,"doctor":[7],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Robotic cleaners","fy":1987,"ly":1987,"doctor":[7],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Robotic crab","fy":1987,"ly":1987,"doctor":[7],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Tetrap","fy":1987,"ly":1987,"doctor":[7],"seen":4,"cases":1,"motive":"Control the Universe"}
-{"_id":"Dibber","fy":1986,"ly":1986,"doctor":[6],"seen":4,"cases":1,"motive":"Self-interest"}
-{"_id":"Drathro (L3 robot)","fy":1986,"ly":1986,"doctor":[6],"seen":4,"cases":1,"motive":"Protect"}
-{"_id":"Kiv, Lord","fy":1986,"ly":1986,"doctor":[6],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"L1 robot","fy":1986,"ly":1986,"doctor":[6],"seen":4,"cases":1,"motive":"Capture the Doctor"}
-{"_id":"Rudge","fy":1986,"ly":1986,"doctor":[6],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Vervoids ","fy":1986,"ly":1986,"doctor":[6],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Gravis","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Kill Humans"}
-{"_id":"Icthar","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Myrka (the)","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Nilson","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Solow, Dr","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Timanor","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Tractator","fy":1984,"ly":1984,"doctor":[5],"seen":4,"cases":1,"motive":"Invade"}
-{"_id":"Gastropods","fy":1984,"ly":1984,"doctor":[6],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Mestor","fy":1984,"ly":1984,"doctor":[6],"seen":4,"cases":1,"motive":"Dominate the universe"}
-{"_id":"Stotz","fy":1984,"ly":1984,"doctor":[1,5,6],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"Jek, Sharaz","fy":1984,"ly":1984,"doctor":[5,6],"seen":4,"cases":1,"motive":"Hates Morgus"}
-{"_id":"Jek's androids","fy":1984,"ly":1984,"doctor":[5,6],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Morgus, Trau","fy":1984,"ly":1984,"doctor":[5,6],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"Ergon (the)","fy":1983,"ly":1983,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Eternals","fy":1983,"ly":1983,"doctor":[5],"seen":4,"cases":1,"motive":"Amusement, universal control"}
-{"_id":"Hedin, Councillor","fy":1983,"ly":1983,"doctor":[5],"seen":4,"cases":1,"motive":"Viral infection"}
-{"_id":"Mansell","fy":1983,"ly":1983,"doctor":[5],"seen":4,"cases":1,"motive":"Competing for enlightment"}
-{"_id":"Mawdryn","fy":1983,"ly":1983,"doctor":[5],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Wrack","fy":1983,"ly":1983,"doctor":[5],"seen":4,"cases":1,"motive":"Compete for enlightenment"}
-{"_id":"Cyberman Android","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Destroy the world"}
-{"_id":"Hindle","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Minister (of Enlightment/Persuasion)","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Monarch","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Power, money"}
-{"_id":"Monarch's androids","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Plasmatons","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Terileptil's android","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Terileptils","fy":1982,"ly":1982,"doctor":[5],"seen":4,"cases":1,"motive":"Kill the Doctor"}
-{"_id":"Aukon (one of Three who rule)","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Drink blood, control humans"}
-{"_id":"Camilla (one of Three who rule)","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Drink blood, control humans"}
-{"_id":"Foamasi","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Great Vampire","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Absorb planets"}
-{"_id":"Grugger","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Marshmen","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Defeat the Doctor"}
-{"_id":"Meglos","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Kill the Doctor"}
-{"_id":"Nimon, The","fy":1979,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Continue the Great Journey of life"}
-{"_id":"Pangol","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Conquest"}
-{"_id":"Rorvik","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Slave Trader"}
-{"_id":"Soldeed, The","fy":1979,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Rebuild the Skonnan Empire"}
-{"_id":"Three Who Rule","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Kill creatures/control humans"}
-{"_id":"Zargo (one of Three who rule)","fy":1980,"ly":1980,"doctor":[4],"seen":4,"cases":1,"motive":"Drink blood, control humans"}
-{"_id":"Adrasta, Lady","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Mineral wealth"}
-{"_id":"Dymond","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Crime"}
-{"_id":"Kroll","fy":1978,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Indiscriminate destruction"}
-{"_id":"Mandrels","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Kill everything"}
-{"_id":"Movellans","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"War with Daleks"}
-{"_id":"Scaroth","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Steal the Mona Lisa to finance experiments"}
-{"_id":"Sharrel","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Destroy"}
-{"_id":"Thawn","fy":1978,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Tryst","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"Wolfweeds","fy":1979,"ly":1979,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Captain (the)","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"Cessair of Diplos (The Cailleach/Morgana Montcalm/Senora Camara/Vivien Fay)","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Murder/theft"}
-{"_id":"Grendel, Count","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"To posess a key"}
-{"_id":"Ogri","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Protect"}
-{"_id":"Oracle (the)","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Control of alien species"}
-{"_id":"Seers","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Taran androids","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Vynda-K, Graff","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"Xanxia, Queen","fy":1978,"ly":1978,"doctor":[4],"seen":4,"cases":1,"motive":"Make money"}
-{"_id":"Capel, Taren","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Collector (the)","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Human dictatorship/enslavement"}
-{"_id":"Fendahl (inc Fendahleen)","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Devour life"}
-{"_id":"Horda","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Kill everything"}
-{"_id":"Nucleus","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Disease, infection"}
-{"_id":"Rutans","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"War"}
-{"_id":"Stael, Maximillion","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Super Voc SV7 robot","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"VOC robot","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Xoanon","fy":1977,"ly":1977,"doctor":[4],"seen":4,"cases":1,"motive":"Enslavement"}
-{"_id":"Eldrad","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"Control of own alien species"}
-{"_id":"Federico, Count","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"Power/ serve big bad"}
-{"_id":"Hieronymous","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"Power/ serve big bad"}
-{"_id":"Mandragora Helix","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"World domination"}
-{"_id":"Mehendri Solon","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"Kill the Doctor"}
-{"_id":"Morbius","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"Universal control"}
-{"_id":"Solon, Dr Mehendri","fy":1976,"ly":1976,"doctor":[4],"seen":4,"cases":1,"motive":"Medical experiments"}
-{"_id":"Anti-matter monster","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Energy"}
-{"_id":"Broton","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"K1 Robot (Giant Robot)","fy":1974,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Mindless destruction"}
-{"_id":"Kellman","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Kraal ","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Kill humans"}
-{"_id":"Kraal androids","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Loch Ness Monster (Skarasen)","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Mummies (Osirian service robots)","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Scarman, Marcus","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Styggron, Chief scientist","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Medical experiments"}
-{"_id":"Sutekh","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Destroy all life"}
-{"_id":"Winters, Miss","fy":1974,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"Blackmail"}
-{"_id":"Wirrn/Wirrrn ","fy":1975,"ly":1975,"doctor":[4],"seen":4,"cases":1,"motive":"World domination"}
-{"_id":"Irongron","fy":1973,"ly":1974,"doctor":[3],"seen":4,"cases":1,"motive":"Crime, serve big bad"}
-{"_id":"Drashigs","fy":1973,"ly":1973,"doctor":[3],"seen":4,"cases":1,"motive":"Kill everything"}
-{"_id":"Kalik","fy":1973,"ly":1973,"doctor":[3],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Anti-Matter Organism ","fy":1972,"ly":1973,"doctor":[1,2,3],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Gell guards ","fy":1972,"ly":1973,"doctor":[1,2,3],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Arcturus","fy":1972,"ly":1972,"doctor":[3],"seen":4,"cases":1,"motive":"Control of planet"}
-{"_id":"Hepesh","fy":1972,"ly":1972,"doctor":[3],"seen":4,"cases":1,"motive":"Universal control"}
-{"_id":"Axons","fy":1971,"ly":1971,"doctor":[3],"seen":4,"cases":1,"motive":"Earth invasion/Human extermination"}
-{"_id":"Stahlman, Professor","fy":1970,"ly":1970,"doctor":[3],"seen":4,"cases":1,"motive":"World domination"}
-{"_id":"Krotons","fy":1969,"ly":1969,"doctor":[2],"seen":4,"cases":1,"motive":"Enslavement"}
-{"_id":"Grey, Solicitor","fy":1966,"ly":1967,"doctor":[2],"seen":4,"cases":1,"motive":"Serve big bad"}
-{"_id":"Kaftan","fy":1967,"ly":1967,"doctor":[2],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Klieg, Eric","fy":1967,"ly":1967,"doctor":[2],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Trask (The Highlanders)","fy":1966,"ly":1967,"doctor":[2],"seen":4,"cases":1,"motive":"Smuggle weapons"}
-{"_id":"Zaroff, Professor","fy":1967,"ly":1967,"doctor":[2],"seen":4,"cases":1,"motive":"Destroy the World"}
-{"_id":"Celestial Toymaker","fy":1966,"ly":1966,"doctor":[1],"seen":4,"cases":1,"motive":"Kill/ enslave humans"}
-{"_id":"Elders (the)","fy":1966,"ly":1966,"doctor":[1],"seen":4,"cases":1,"motive":"Self interest"}
-{"_id":"Monoid","fy":1966,"ly":1966,"doctor":[1],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Pike, Samuel ","fy":1966,"ly":1966,"doctor":[1],"seen":4,"cases":1,"motive":"Find Treasure"}
-{"_id":"WOTAN","fy":1966,"ly":1966,"doctor":[1],"seen":4,"cases":1,"motive":"World domination"}
-{"_id":"Drahvin","fy":1965,"ly":1965,"doctor":[1],"seen":4,"cases":1,"motive":"War"}
-{"_id":"Maaga","fy":1965,"ly":1965,"doctor":[1],"seen":4,"cases":1,"motive":"escape doomed planet"}
-{"_id":"Moroks, (the)","fy":1965,"ly":1965,"doctor":[1],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Tlotoxl","fy":1964,"ly":1964,"doctor":[1],"seen":4,"cases":1,"motive":"Religion"}
-{"_id":"Kal","fy":1963,"ly":1963,"doctor":[1],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Za","fy":1963,"ly":1963,"doctor":[1],"seen":4,"cases":1,"motive":"Power"}
-{"_id":"Azal","fy":1971,"ly":1971,"doctor":[3],"seen":5,"cases":1,"motive":"Kill humans"}
-{"_id":"Bok","fy":1971,"ly":1971,"doctor":[3],"seen":5,"cases":1,"motive":"Assist Azal"}
-{"_id":"Dominators","fy":1968,"ly":1968,"doctor":[2],"seen":5,"cases":1,"motive":"Turn Planet into fuel"}
-{"_id":"Master of the Land of Fiction","fy":1968,"ly":1968,"doctor":[2],"seen":5,"cases":1,"motive":"Trick the Doctor"}
-{"_id":"Quarks","fy":1968,"ly":1968,"doctor":[2],"seen":5,"cases":1,"motive":"Enslavement"}
-{"_id":"Rago Navigator","fy":1968,"ly":1968,"doctor":[2],"seen":5,"cases":1,"motive":"Conserve energy"}
-{"_id":"White Robot","fy":1968,"ly":1968,"doctor":[2],"seen":5,"cases":1,"motive":"Serve big bad "}
-{"_id":"Marshal of Atrios","fy":1979,"ly":1979,"doctor":[4],"seen":6,"cases":1,"motive":"Power"}
-{"_id":"Shadow (the)","fy":1979,"ly":1979,"doctor":[4],"seen":6,"cases":1,"motive":"War"}
-{"_id":"Skagra","fy":1979,"ly":1979,"doctor":[4],"seen":6,"cases":1,"motive":"Universe domination"}
-{"_id":"Vardan","fy":1978,"ly":1978,"doctor":[4],"seen":6,"cases":1,"motive":"Time travelling"}
-{"_id":"Chang, Li H'sen","fy":1977,"ly":1977,"doctor":[4],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Greel, Magnus","fy":1977,"ly":1977,"doctor":[4],"seen":6,"cases":1,"motive":"Immortality/return to his time"}
-{"_id":"Peking Homunculus (Mr Sin)","fy":1977,"ly":1977,"doctor":[4],"seen":6,"cases":1,"motive":"Kill humans"}
-{"_id":"Sin (Mr)","fy":1977,"ly":1977,"doctor":[4],"seen":6,"cases":1,"motive":"Kill humans"}
-{"_id":"Chase, Harrison","fy":1976,"ly":1976,"doctor":[4],"seen":6,"cases":1,"motive":"Kill humans"}
-{"_id":"Krynoids","fy":1976,"ly":1976,"doctor":[4],"seen":6,"cases":1,"motive":"World domination"}
-{"_id":"Scorby ","fy":1976,"ly":1976,"doctor":[4],"seen":6,"cases":1,"motive":"Flee England"}
-{"_id":"Nyder","fy":1975,"ly":1975,"doctor":[4],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Azaxyr","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Power"}
-{"_id":"Eckersley","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"World domination"}
-{"_id":"Eight legs","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Great One (Giant Spiders of Metebelis III)","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Universe domination"}
-{"_id":"Grover, Charles","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Power"}
-{"_id":"Lupton","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Sskel","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Power"}
-{"_id":"Whitaker","fy":1974,"ly":1974,"doctor":[3],"seen":6,"cases":1,"motive":"Possess time travel"}
-{"_id":"BOSS","fy":1973,"ly":1973,"doctor":[3],"seen":6,"cases":1,"motive":"Brainwashing"}
-{"_id":"Maggot/Giant Maggot","fy":1973,"ly":1973,"doctor":[3],"seen":6,"cases":1,"motive":"Kill humans"}
-{"_id":"Chief Sea Devil","fy":1972,"ly":1972,"doctor":[3],"seen":6,"cases":1,"motive":"Destroy the human race"}
-{"_id":"Kronos","fy":1972,"ly":1972,"doctor":[3],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Marshal of Solos (the) ","fy":1972,"ly":1972,"doctor":[3],"seen":6,"cases":1,"motive":"Career"}
-{"_id":"Dent","fy":1971,"ly":1971,"doctor":[3],"seen":6,"cases":1,"motive":"Make money"}
-{"_id":"Keller Machine","fy":1971,"ly":1971,"doctor":[3],"seen":6,"cases":1,"motive":"Control Humans"}
-{"_id":"Mailer, Harry ","fy":1971,"ly":1971,"doctor":[3],"seen":6,"cases":1,"motive":"Power"}
-{"_id":"Caven, Maurice","fy":1969,"ly":1969,"doctor":[2],"seen":6,"cases":1,"motive":"Invade another alien planet"}
-{"_id":"Benik","fy":1967,"ly":1968,"doctor":[2],"seen":6,"cases":1,"motive":"Serve Big Bad"}
-{"_id":"Oak, Mr","fy":1968,"ly":1968,"doctor":[2],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Quill, Mr","fy":1968,"ly":1968,"doctor":[2],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Salamander","fy":1967,"ly":1968,"doctor":[2],"seen":6,"cases":1,"motive":"Wants to control an organisation"}
-{"_id":"Seaweed Creature (Weed creature)","fy":1968,"ly":1968,"doctor":[2],"seen":6,"cases":1,"motive":"World domination"}
-{"_id":"Chameleons","fy":1967,"ly":1967,"doctor":[2],"seen":6,"cases":1,"motive":"New home world, absorbing human identities"}
-{"_id":"Varga","fy":1967,"ly":1967,"doctor":[2],"seen":6,"cases":1,"motive":"World domination"}
-{"_id":"Bragen","fy":1966,"ly":1966,"doctor":[2],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Animus","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Control Humans"}
-{"_id":"Aridians","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Self interest"}
-{"_id":"Dracula, Robot Count","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Frankenstein's monster robot","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Grey Lady robot","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Gubbage Cone ","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Attack the Doctor"}
-{"_id":"Robot Dr Who","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Kill Doctor and companions"}
-{"_id":"Zarbi","fy":1965,"ly":1965,"doctor":[1],"seen":6,"cases":1,"motive":"Forage, possessed"}
-{"_id":"Aydan","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Save alien planet"}
-{"_id":"Eyesen","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Self-interest"}
-{"_id":"Kala","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Save alien planet "}
-{"_id":"Morpho","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Save alien planet"}
-{"_id":"Robomen","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Screaming Jungle (The)","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Save alien planet"}
-{"_id":"Sensorites","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Fear"}
-{"_id":"Slyther","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Serve big bad"}
-{"_id":"Vasor","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Save alien planet"}
-{"_id":"Voord","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Wants to control a Planet"}
-{"_id":"Yartek","fy":1964,"ly":1964,"doctor":[1],"seen":6,"cases":1,"motive":"Serve big Bad"}
-{"_id":"Azlok","fy":2009,"ly":2009,"doctor":[10],"seen":7,"cases":1,"motive":"Invading Earth"}
-{"_id":"Skorpius Flies","fy":2009,"ly":2009,"doctor":[10],"seen":7,"cases":1,"motive":"Self interest (food)"}
-{"_id":"Stark, Colonel","fy":2009,"ly":2009,"doctor":[10],"seen":7,"cases":1,"motive":"Power, Kill humans"}
-{"_id":"Viperox","fy":2009,"ly":2009,"doctor":[10],"seen":7,"cases":1,"motive":"Hunt/invade"}
-{"_id":"Elizabeth Shaw, Section Leader (alt universe)","fy":1970,"ly":1970,"doctor":[3],"seen":7,"cases":1,"motive":"Fascist stooge"}
-{"_id":"Lethbridge-Stewart, Brigade Leader (alt universe)","fy":1970,"ly":1970,"doctor":[3],"seen":7,"cases":1,"motive":"Fascist stooge"}
-{"_id":"Morka","fy":1970,"ly":1970,"doctor":[3],"seen":7,"cases":1,"motive":"World domination"}
-{"_id":"Primord","fy":1970,"ly":1970,"doctor":[3],"seen":7,"cases":1,"motive":"Control Humans"}
-{"_id":"Carrington, General","fy":1970,"ly":1970,"doctor":[7],"seen":7,"cases":1,"motive":"War"}
-{"_id":"Quinlan, Sir James","fy":1970,"ly":1970,"doctor":[7],"seen":7,"cases":1,"motive":"Serve big bad"}
-{"_id":"Reegan","fy":1970,"ly":1970,"doctor":[7],"seen":7,"cases":1,"motive":"Crime"}
-{"_id":"Taltalian, Bruno","fy":1970,"ly":1970,"doctor":[7],"seen":7,"cases":1,"motive":"Serve big bad"}
-{"_id":"Maxtible, Theodore","fy":1967,"ly":1967,"doctor":[2],"seen":7,"cases":1,"motive":"Serve big bad"}
-{"_id":"Mongol Bandit ","fy":1964,"ly":1964,"doctor":[1],"seen":7,"cases":1,"motive":"Serve big bad "}
-{"_id":"Tegana","fy":1964,"ly":1964,"doctor":[1],"seen":7,"cases":1,"motive":"Kill the Doctor"}
-{"_id":"Vaughn, Tobias","fy":1968,"ly":1968,"doctor":[2],"seen":8,"cases":1,"motive":"Kill the Doctor"}
-{"_id":"Alliance of Shades (Mister Dread)","fy":2009,"ly":2009,"doctor":[10],"seen":9,"cases":1,"motive":"Hide alien activities"}
-{"_id":"War Chief","fy":1969,"ly":1969,"doctor":[2],"seen":10,"cases":1,"motive":"Kidnapp"}
-{"_id":"War Lord","fy":1969,"ly":1969,"doctor":[2],"seen":10,"cases":1,"motive":"Kidnapp"}
-{"_id":"Mavic Chen","fy":1965,"ly":1966,"doctor":[1],"seen":12,"cases":1,"motive":"Kill humans"}
-{"_id":"Baltazar","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Kill life on earth/make money"}
-{"_id":"Caw ","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Gold"}
-{"_id":"Gurney, Constantine Ethelred","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Larceny, blackmail and fraud"}
-{"_id":"Lok","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Kill humans"}
-{"_id":"Mantasphid Queen","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Power"}
-{"_id":"Oil Rig","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Drain oil from planets, make money"}
-{"_id":"Skeleton Crew ","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Self interest"}
-{"_id":"Squawk","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Serve big bad"}
-{"_id":"Ulysees Meregrass","fy":2007,"ly":2007,"doctor":[10],"seen":13,"cases":1,"motive":"Make money"}
+{"_id":0,"fy":1963,"ly":2010,"ep":[1,2,3,4,5,6,7,9,10,11],"seen":104,"cases":34,"motive":"Earth invasion/Human extermination","name":"Daleks"}
+{"_id":1,"fy":1966,"ly":2013,"ep":[1,2,3,4,5,6,7,10,11],"seen":57,"cases":25,"motive":"Earth invasion/Human extermination","name":"Cybermen"}
+{"_id":2,"fy":1971,"ly":2009,"ep":[3,4,5,6,7,8,10],"seen":84,"cases":22,"motive":"Universal control","name":"Master (the)"}
+{"_id":3,"fy":1964,"ly":2010,"ep":[1,2,3,4,5,6,7,10,11],"seen":63,"cases":14,"motive":"Earth invasion/Human extermination","name":"Dalek Supreme (Supreme Dalek), inc Progenitor"}
+{"_id":4,"fy":1973,"ly":2008,"ep":[2,3,4,6,10,11],"seen":21,"cases":9,"motive":"War, world domination","name":"Sontarans"}
+{"_id":5,"fy":1967,"ly":2013,"ep":[2,3,11],"seen":25,"cases":7,"motive":"Absorb planets","name":"Ice Warriors (inc benevolent appearences)"}
+{"_id":6,"fy":1970,"ly":2010,"ep":[3,5,11],"seen":16,"cases":6,"motive":"World domination","name":"Silurians (exc Sea Devils)"}
+{"_id":7,"fy":1975,"ly":2008,"ep":[4,5,6,7,10],"seen":22,"cases":6,"motive":"Earth invasion/Human extermination","name":"Davros"}
+{"_id":8,"fy":1975,"ly":1988,"ep":[1,2,3,4,5,6,7],"seen":14,"cases":5,"motive":"Serve big bad ","name":"Cyber-leader"}
+{"_id":9,"fy":1967,"ly":2013,"ep":[2,11],"seen":15,"cases":5,"motive":"World domination","name":"Great Intelligence, the (Yog-Sothoth)"}
+{"_id":10,"fy":1978,"ly":1979,"ep":[4,5],"seen":18,"cases":5,"motive":"Wants evil","name":"Black Guardian (the)"}
+{"_id":11,"fy":2011,"ly":2011,"ep":[11],"seen":5,"cases":4,"motive":"Kill Doctor and companions","name":"Kovarian, Madame"}
+{"_id":12,"fy":2006,"ly":2010,"ep":[10,11],"seen":6,"cases":4,"motive":"Serve big bad","name":"Ood, the (Oodkind), inc benevolent appearances"}
+{"_id":13,"fy":1970,"ly":2010,"ep":[3,9,11],"seen":11,"cases":4,"motive":"Defeat the Doctor","name":"Autons (Marcellas, Commander and Claudio)"}
+{"_id":14,"fy":1967,"ly":2011,"ep":[2,4,11],"seen":15,"cases":4,"motive":"Serve big bad","name":"Cybermat"}
+{"_id":15,"fy":1976,"ly":1983,"ep":[1,2,3,4,5],"seen":15,"cases":4,"motive":"Wants immortality","name":"Borusa"}
+{"_id":16,"fy":2007,"ly":2010,"ep":[10,11],"seen":3,"cases":3,"motive":"Obey bureaucracy","name":"Judoon"}
+{"_id":17,"fy":2005,"ly":2010,"ep":[10,11],"seen":3,"cases":3,"motive":"Scavengers/Imprison the Doctor","name":"Roboforms"}
+{"_id":18,"fy":2007,"ly":2012,"ep":[10,11],"seen":4,"cases":3,"motive":"Kill, trap in time","name":"Weeping Angels"}
+{"_id":19,"fy":2011,"ly":2011,"ep":[11],"seen":4,"cases":3,"motive":"World domination","name":"Silence (the)"}
+{"_id":20,"fy":1985,"ly":1993,"ep":[3,4,5,6,7],"seen":8,"cases":3,"motive":"Enslavement, Medical experimentation","name":"Rani (the)"}
+{"_id":21,"fy":1970,"ly":2010,"ep":[3,9],"seen":9,"cases":3,"motive":"Universal control","name":"Nestene Consciousness"}
+{"_id":22,"fy":1986,"ly":1987,"ep":[6,7],"seen":9,"cases":3,"motive":"Self-interest","name":"Glitz, Sabalom"}
+{"_id":23,"fy":1967,"ly":1983,"ep":[1,2,3,4,5],"seen":13,"cases":3,"motive":"Serve big bad","name":"Yeti"}
+{"_id":24,"fy":1986,"ly":1986,"ep":[6],"seen":18,"cases":3,"motive":"Kill the Doctor","name":"Valeyard (the)"}
+{"_id":25,"fy":2010,"ly":2010,"ep":[11],"seen":2,"cases":2,"motive":"World domination","name":"Atraxi"}
+{"_id":26,"fy":2006,"ly":2010,"ep":[10,11],"seen":2,"cases":2,"motive":"Consume everything/Imprison the Doctor","name":"Hoix"}
+{"_id":27,"fy":2005,"ly":2010,"ep":[10,11],"seen":2,"cases":2,"motive":"World domination","name":"Sycorax (Fadros Pullujikaa)"}
+{"_id":28,"fy":2006,"ly":2007,"ep":[10],"seen":2,"cases":2,"motive":"Medical experiments","name":"Casp, Matron"}
+{"_id":29,"fy":2007,"ly":2007,"ep":[10],"seen":2,"cases":2,"motive":"Locate the Doctor and his companions","name":"Dexter"}
+{"_id":30,"fy":2006,"ly":2007,"ep":[10],"seen":2,"cases":2,"motive":"Sabotage","name":"New Humans"}
+{"_id":31,"fy":2007,"ly":2007,"ep":[10],"seen":2,"cases":2,"motive":"Kill humans","name":"Pig Slave"}
+{"_id":32,"fy":2006,"ly":2007,"ep":[10],"seen":2,"cases":2,"motive":"Power, experimented on humans","name":"Sisters of Plenitude (Hame, Jaff)"}
+{"_id":33,"fy":2005,"ly":2006,"ep":[9,10],"seen":2,"cases":2,"motive":"Make money","name":"Cassandra, Lady (Cassandra O'Brien.Δ17)"}
+{"_id":34,"fy":2005,"ly":2005,"ep":[9,10],"seen":2,"cases":2,"motive":"Kill humans","name":"Droid, Anne "}
+{"_id":35,"fy":2005,"ly":2005,"ep":[9,10],"seen":2,"cases":2,"motive":"money (prize money)","name":"Rodrick"}
+{"_id":36,"fy":1983,"ly":2010,"ep":[1,2,3,4,5,10,11],"seen":3,"cases":2,"motive":"Power","name":"Rassilon"}
+{"_id":37,"fy":2005,"ly":2005,"ep":[9],"seen":3,"cases":2,"motive":"World domination, kill humans","name":"Slitheen (Strickland, Margaret Blaine and Oliver Charles)"}
+{"_id":38,"fy":1983,"ly":1985,"ep":[1,2,3,4,6],"seen":3,"cases":2,"motive":"attack the Doctor","name":"Terrible Zodin"}
+{"_id":39,"fy":2007,"ly":2010,"ep":[10],"seen":4,"cases":2,"motive":"Serve big bad","name":"Saxon, Lucy"}
+{"_id":40,"fy":2006,"ly":2007,"ep":[10],"seen":4,"cases":2,"motive":"Earth invasion/Human extermination/Human-Dalek hybrid","name":"Cult of Skaro (inc Dalek Sec and three others) "}
+{"_id":41,"fy":1983,"ly":1985,"ep":[5,6],"seen":4,"cases":2,"motive":"Serve big bad","name":"Lytton, Commander Gustav"}
+{"_id":42,"fy":1975,"ly":2012,"ep":[4,11],"seen":5,"cases":2,"motive":"Invade earth","name":"Zygons"}
+{"_id":43,"fy":1967,"ly":2007,"ep":[2,10],"seen":5,"cases":2,"motive":"Kill everything","name":"Macra (the)"}
+{"_id":44,"fy":1985,"ly":1986,"ep":[6],"seen":6,"cases":2,"motive":"Exploitation","name":"Sil"}
+{"_id":45,"fy":1967,"ly":1985,"ep":[2,6],"seen":6,"cases":2,"motive":"Earth invasion/Human extermination","name":"Cyber-controller"}
+{"_id":46,"fy":1983,"ly":1984,"ep":[5],"seen":6,"cases":2,"motive":"Serve big bad","name":"Kamelion (inc benevolent appearences)"}
+{"_id":47,"fy":1982,"ly":1983,"ep":[5],"seen":8,"cases":2,"motive":"Feeds off fear","name":"Mara (the), (Dukkha)"}
+{"_id":48,"fy":1972,"ly":1983,"ep":[1,2,3,5],"seen":8,"cases":2,"motive":"Revenge","name":"Omega"}
+{"_id":49,"fy":1965,"ly":1966,"ep":[1],"seen":8,"cases":2,"motive":"Interfere with history","name":"Meddling Monk (the)"}
+{"_id":50,"fy":1972,"ly":1984,"ep":[3,5],"seen":10,"cases":2,"motive":"Capture the Doctor","name":"Sea Devils"}
+{"_id":51,"fy":1972,"ly":1973,"ep":[3],"seen":10,"cases":2,"motive":"Serve big bad","name":"Ogrons "}
+{"_id":52,"fy":1969,"ly":1976,"ep":[2,4],"seen":14,"cases":2,"motive":"Serve big bad, power","name":"Goth (Gothaparduskerialldrapolatkh)"}
+{"_id":53,"fy":1965,"ly":1966,"ep":[1],"seen":16,"cases":2,"motive":"Meddle with time","name":"Mortimus "}
+{"_id":54,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Find mate","name":"Forest Monster"}
+{"_id":55,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Feed off memories and feelings","name":"Grandfather (Akhaten)"}
+{"_id":56,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Serve Big Bad/upload humans","name":"KIslet, Miss"}
+{"_id":57,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Divine justice","name":"Mrs Gillyflower"}
+{"_id":58,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Serve Big Bad","name":"Mummy, The"}
+{"_id":59,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Spoonheads"}
+{"_id":60,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Hunt past selves","name":"Time Zombie"}
+{"_id":61,"fy":2013,"ly":2013,"ep":[11],"seen":1,"cases":1,"motive":"Serve Big Bad","name":"Vigil, The"}
+{"_id":62,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Dala, Dalek puppet"}
+{"_id":63,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Protecting the Daleks","name":"Dalek prime minister"}
+{"_id":64,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Collect Weeping Angels","name":"Grayle"}
+{"_id":65,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Destroy humans","name":"Shakri"}
+{"_id":66,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Simeon, Dr"}
+{"_id":67,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Serve Big Bad","name":"Snowmen, The"}
+{"_id":68,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Profit","name":"Soloman"}
+{"_id":69,"fy":2012,"ly":2012,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Soloman's robots (x2)"}
+{"_id":70,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Gantok"}
+{"_id":71,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Kill with kindness","name":"Handbots"}
+{"_id":72,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Headless Monks"}
+{"_id":73,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Absorb planets, TARDIS'","name":"House"}
+{"_id":74,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Kill the Doctor","name":"Justice Department, The"}
+{"_id":75,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Kill Doctor and companions","name":"Manton, Colonel"}
+{"_id":76,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Feed on beliefs","name":"Minotaur, The"}
+{"_id":77,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Turn humans into dolls","name":"Peg dolls"}
+{"_id":78,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Pond, Melody (before redemption)"}
+{"_id":79,"fy":2011,"ly":2011,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Teselecta"}
+{"_id":80,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor","name":"Alliance - onscreen - Daleks, Cybermen, Sontarans \u0026 Autons, (cameos Silurians, Sycorax, Judoon, Hoix, Roboforms, microcameos Blowfish, Uvodni, Weevils)"}
+{"_id":81,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor","name":"Blowfish"}
+{"_id":82,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"reproduce","name":"Calvierri, Signora Rosanna"}
+{"_id":83,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Carlo "}
+{"_id":84,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Defeat the Doctor","name":"Dream Lord"}
+{"_id":85,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Control humans, survival","name":"Eknodine"}
+{"_id":86,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Francesco"}
+{"_id":87,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Power","name":"Hawthorne"}
+{"_id":88,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Hunt  ","name":"Krafayis"}
+{"_id":89,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Capture humans","name":"Number 79B, Alckman Road"}
+{"_id":90,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Poggit (Mrs)"}
+{"_id":91,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Fugative","name":"Prisoner Zero"}
+{"_id":92,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"World domination","name":"Restac"}
+{"_id":93,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"World domination","name":"Saturnynians"}
+{"_id":94,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Serve big bad","name":"Smilers (Winders)"}
+{"_id":95,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor","name":"Uvodni"}
+{"_id":96,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Imprison the Doctor","name":"Weevils"}
+{"_id":97,"fy":2010,"ly":2010,"ep":[11],"seen":1,"cases":1,"motive":"Protect ","name":"Winder "}
+{"_id":98,"fy":2009,"ly":2009,"ep":[10],"seen":1,"cases":1,"motive":"Viral infection","name":"Flood (the)"}
+{"_id":99,"fy":2009,"ly":2009,"ep":[10],"seen":1,"cases":1,"motive":"Career","name":"MacMillan (DI)"}
+{"_id":100,"fy":2009,"ly":2009,"ep":[10],"seen":1,"cases":1,"motive":"Self interest (food)","name":"Stingray"}
+{"_id":101,"fy":2009,"ly":2009,"ep":[10],"seen":1,"cases":1,"motive":"Destroy all life","name":"Swarm (Alien Stingray)"}
+{"_id":102,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Control the World","name":"Adipose Industries "}
+{"_id":103,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"War","name":"Cobb, General"}
+{"_id":104,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"reproducing","name":"Cofelia, Matron (Miss Foster)"}
+{"_id":105,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad","name":"Cybershades"}
+{"_id":106,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Dominate the world","name":"Dextrus, Lucias Petrus"}
+{"_id":107,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Manipulating the past","name":"Fortune Teller"}
+{"_id":108,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Golightly, Arnold"}
+{"_id":109,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Kill an alien species","name":"Halpen, Klineman"}
+{"_id":110,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Human dictatorship/enslavement","name":"Hartigan, Mercy"}
+{"_id":111,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"War","name":"Hath"}
+{"_id":112,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Power","name":"Kess"}
+{"_id":113,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Self interest","name":"Krillitane"}
+{"_id":114,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Survival","name":"Midnight Entity"}
+{"_id":115,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"World domination","name":"Pyroviles"}
+{"_id":116,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Meddle with time, creating parallel universes","name":"Time Beetle"}
+{"_id":117,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"steal jewels","name":"Unicorn (the)"}
+{"_id":118,"fy":2008,"ly":2008,"ep":[10],"seen":1,"cases":1,"motive":"Research, not in control of powers","name":"Vespiforms"}
+{"_id":119,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad","name":"Bloodtide"}
+{"_id":120,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Bankrupt company","name":"Capricorn, Max"}
+{"_id":121,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"World domination","name":"Carrionites"}
+{"_id":122,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Run New York city","name":"Diagoras (Mr)"}
+{"_id":123,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Futurekind"}
+{"_id":124,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad, make money for family","name":"Hardaker"}
+{"_id":125,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad","name":"Heavenly Host "}
+{"_id":126,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Lazarus, Professor Richard"}
+{"_id":127,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Control Humans","name":"Lilith"}
+{"_id":128,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Power/ serve big bad","name":"Mysterious Man"}
+{"_id":129,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Drink blood","name":"Plasmavores (Florence Finnegan)"}
+{"_id":130,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad","name":"Slab"}
+{"_id":131,"fy":2007,"ly":2007,"ep":[10],"seen":1,"cases":1,"motive":"Posess crew members","name":"Torajii System Sun"}
+{"_id":132,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Abzorbaloff (Victor Kennedy)"}
+{"_id":133,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Create new empire","name":"Angelo"}
+{"_id":134,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad","name":"Brethren (the), inc Father Angelo"}
+{"_id":135,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Experiments on humans","name":"Catkind (Sisters of Plenitude), exc Novice Hame"}
+{"_id":136,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Serve big bad ","name":"Chip"}
+{"_id":137,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Take brain, repair ship","name":"Clockwork Repair Droids"}
+{"_id":138,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Medical experiments","name":"Corvin"}
+{"_id":139,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Father Angelo"}
+{"_id":140,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Finch, Mr (Lassar)"}
+{"_id":141,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Kill everything","name":"Host (the)"}
+{"_id":142,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Self interest","name":"Isolus flowers (Scribble Monster)"}
+{"_id":143,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Dominate the universe","name":"Jackson (Mrs)"}
+{"_id":144,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Kill everything","name":"Lupine Wavelength Haemovariform (werewolf)"}
+{"_id":145,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Career","name":"Magpie (Mr)"}
+{"_id":146,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Kill humans","name":"Racnoss, Empress of the"}
+{"_id":147,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Control time and the universe","name":"Wagner"}
+{"_id":148,"fy":2006,"ly":2006,"ep":[10],"seen":1,"cases":1,"motive":"Erase thoughts","name":"Wire (the)"}
+{"_id":149,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"Adherents of the Repeated Meme"}
+{"_id":150,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"Automated Corpse"}
+{"_id":151,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Kill politician","name":"Charles, Oliver"}
+{"_id":152,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Controll Humans","name":"Davinadroid"}
+{"_id":153,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Control Humans","name":"Editor"}
+{"_id":154,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"World domination","name":"Gelth (the)/Gelth Ambassador"}
+{"_id":155,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Control Humans","name":"Jagrafess"}
+{"_id":156,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Power","name":"James, Tennant"}
+{"_id":157,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"McAllister, Ewan"}
+{"_id":158,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"Metal Spiders"}
+{"_id":159,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Sterilise time disturbances","name":"Reapers"}
+{"_id":160,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Self interest","name":"Sneed, Gabriel"}
+{"_id":161,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"Surgeons"}
+{"_id":162,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"Trin-E"}
+{"_id":163,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Corruption","name":"van Statten, Henry"}
+{"_id":164,"fy":2005,"ly":2005,"ep":[9],"seen":1,"cases":1,"motive":"Serve big bad","name":"Zu-Zana"}
+{"_id":165,"fy":1996,"ly":1996,"ep":[7,8],"seen":1,"cases":1,"motive":"Turf war (shoots doctor)","name":"San Francisco street gang"}
+{"_id":166,"fy":1983,"ly":1983,"ep":[1,2,3,4,5],"seen":1,"cases":1,"motive":"Kill everything","name":"Raston Warrior Robot"}
+{"_id":167,"fy":2009,"ly":2010,"ep":[10],"seen":2,"cases":1,"motive":"World domination","name":"Red Carnivorous Maw"}
+{"_id":168,"fy":2010,"ly":2010,"ep":[11],"seen":2,"cases":1,"motive":"Capture humans","name":"Alaya"}
+{"_id":169,"fy":2010,"ly":2010,"ep":[11],"seen":2,"cases":1,"motive":"Kill humans","name":"Angel Bob"}
+{"_id":170,"fy":2009,"ly":2010,"ep":[10,11],"seen":2,"cases":1,"motive":"Immortality","name":"Naismith, Joshua"}
+{"_id":171,"fy":2008,"ly":2008,"ep":[10],"seen":2,"cases":1,"motive":"Serve big bad, fight","name":"Gray, Steve"}
+{"_id":172,"fy":2008,"ly":2008,"ep":[10],"seen":2,"cases":1,"motive":"Serve big bad, fight","name":"Harris, Private Carl"}
+{"_id":173,"fy":2008,"ly":2008,"ep":[10],"seen":2,"cases":1,"motive":"Serve big bad","name":"Martha Jones- Clone"}
+{"_id":174,"fy":2008,"ly":2008,"ep":[10],"seen":2,"cases":1,"motive":"World domination","name":"Rattigan, Luke"}
+{"_id":175,"fy":2008,"ly":2008,"ep":[10],"seen":2,"cases":1,"motive":"World domination","name":"Staal"}
+{"_id":176,"fy":2008,"ly":2008,"ep":[10],"seen":2,"cases":1,"motive":"Consume lifeforms","name":"Vashta Nerada"}
+{"_id":177,"fy":2007,"ly":2007,"ep":[10],"seen":2,"cases":1,"motive":"Infiltrate places","name":"Daughter of Mine"}
+{"_id":178,"fy":2007,"ly":2007,"ep":[10],"seen":2,"cases":1,"motive":"Kill/take control of humans and the Doctor","name":"Family of Blood"}
+{"_id":179,"fy":2007,"ly":2007,"ep":[10],"seen":2,"cases":1,"motive":"Steal oil, make money","name":"Kaliko (swabb)"}
+{"_id":180,"fy":2007,"ly":2007,"ep":[10],"seen":2,"cases":1,"motive":"Self interest","name":"Toclafane"}
+{"_id":181,"fy":2006,"ly":2006,"ep":[10],"seen":2,"cases":1,"motive":"Satan Figure","name":"Beast (the)"}
+{"_id":182,"fy":2006,"ly":2006,"ep":[10],"seen":2,"cases":1,"motive":"Serve big bad ","name":"Crane (Mr)"}
+{"_id":183,"fy":2006,"ly":2006,"ep":[10],"seen":2,"cases":1,"motive":"Assist Cybermen","name":"Hartman, Yvonne"}
+{"_id":184,"fy":2006,"ly":2006,"ep":[10],"seen":2,"cases":1,"motive":"Immortality, medical experiments, kill humans","name":"Lumic, John"}
+{"_id":185,"fy":2005,"ly":2005,"ep":[9],"seen":2,"cases":1,"motive":"Kill humans","name":"Empty Child"}
+{"_id":186,"fy":2005,"ly":2005,"ep":[9],"seen":2,"cases":1,"motive":"Cause World War Three","name":"Green, Joseph"}
+{"_id":187,"fy":1985,"ly":1985,"ep":[6],"seen":2,"cases":1,"motive":"Kill humans","name":"Borad"}
+{"_id":188,"fy":1985,"ly":1985,"ep":[6],"seen":2,"cases":1,"motive":"Serve big bad","name":"Karfelon androids"}
+{"_id":189,"fy":1985,"ly":1985,"ep":[6],"seen":2,"cases":1,"motive":"Experiments on humans","name":"Quillam"}
+{"_id":190,"fy":1985,"ly":1985,"ep":[6],"seen":2,"cases":1,"motive":"Serve big bad","name":"Tekker"}
+{"_id":191,"fy":1984,"ly":1984,"ep":[5],"seen":2,"cases":1,"motive":"Serve big bad","name":"Dalek Duplicates"}
+{"_id":192,"fy":1984,"ly":1984,"ep":[5],"seen":2,"cases":1,"motive":"Power","name":"Hutchinson, Sir George"}
+{"_id":193,"fy":1984,"ly":1984,"ep":[5],"seen":2,"cases":1,"motive":"Kill other alien species","name":"Malus"}
+{"_id":194,"fy":1982,"ly":1982,"ep":[5],"seen":2,"cases":1,"motive":"Kill humans","name":"Cranleigh, George"}
+{"_id":195,"fy":1965,"ly":1965,"ep":[1],"seen":2,"cases":1,"motive":"Kill humans","name":"Bennett (Koquillion)"}
+{"_id":196,"fy":1989,"ly":1989,"ep":[7],"seen":3,"cases":1,"motive":"Serve big bad","name":"Cheetah people"}
+{"_id":197,"fy":1989,"ly":1989,"ep":[7],"seen":3,"cases":1,"motive":"Destroy all life","name":"Light"}
+{"_id":198,"fy":1989,"ly":1989,"ep":[7],"seen":3,"cases":1,"motive":"Destroy all life","name":"Smith, Josiah Samuel (Survey)"}
+{"_id":199,"fy":1988,"ly":1988,"ep":[7],"seen":3,"cases":1,"motive":"Human dictatorship, establish fourth reich,Fascist stooge","name":"De Flores"}
+{"_id":200,"fy":1988,"ly":1988,"ep":[7],"seen":3,"cases":1,"motive":"Serve big bad","name":"Happiness Patrol (the)"}
+{"_id":201,"fy":1988,"ly":1988,"ep":[7],"seen":3,"cases":1,"motive":"Human dictatorship/enslavement","name":"Helen A"}
+{"_id":202,"fy":1988,"ly":1988,"ep":[7],"seen":3,"cases":1,"motive":"Dictatorship/enslavement","name":"Kandyman"}
+{"_id":203,"fy":1988,"ly":1988,"ep":[7],"seen":3,"cases":1,"motive":"Fascist stooge","name":"Neo-Nazis, Windsor"}
+{"_id":204,"fy":1988,"ly":1988,"ep":[7],"seen":3,"cases":1,"motive":"Wanted ownership of a weapon","name":"Peinforte, Lady"}
+{"_id":205,"fy":1987,"ly":1987,"ep":[7],"seen":3,"cases":1,"motive":"World domination","name":"Bannermen"}
+{"_id":206,"fy":1987,"ly":1987,"ep":[7],"seen":3,"cases":1,"motive":"Kill another alien species","name":"Kane"}
+{"_id":207,"fy":1985,"ly":1985,"ep":[2,6],"seen":3,"cases":1,"motive":"Get a time machine","name":"Chessene of the Franzine Grig"}
+{"_id":208,"fy":1985,"ly":1985,"ep":[2,6],"seen":3,"cases":1,"motive":"Medical experiments","name":"Dastari, Joinson"}
+{"_id":209,"fy":1985,"ly":1985,"ep":[2,6],"seen":3,"cases":1,"motive":"Eat human flesh","name":"Shockeye of the Quawncing Grig "}
+{"_id":210,"fy":1985,"ly":1985,"ep":[2,6],"seen":3,"cases":1,"motive":"Make time machine","name":"Stike"}
+{"_id":211,"fy":1985,"ly":1985,"ep":[2,6],"seen":3,"cases":1,"motive":"Possess time travel","name":"Varl"}
+{"_id":212,"fy":1967,"ly":1967,"ep":[2],"seen":3,"cases":1,"motive":"Possess time travel","name":"Varla"}
+{"_id":213,"fy":1964,"ly":1964,"ep":[1],"seen":3,"cases":1,"motive":"Money","name":"Forester"}
+{"_id":214,"fy":1988,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Serve big bad","name":"Chief Clown"}
+{"_id":215,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Serve big bad","name":"Clown robots"}
+{"_id":216,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Defeat the Doctor","name":"Destroyer"}
+{"_id":217,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Control Humans","name":"Fenric"}
+{"_id":218,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Kill another alien species","name":"Gavrok"}
+{"_id":219,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Kill alien species/enslavement","name":"Gods of Ragnarok"}
+{"_id":220,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Serve big bad","name":"Haemovores (inc Ancient One)"}
+{"_id":221,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Control alien species","name":"Ingiger"}
+{"_id":222,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Serve big bad","name":"Millington, Commander AH"}
+{"_id":223,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"Power","name":"Mordred"}
+{"_id":224,"fy":1989,"ly":1989,"ep":[7],"seen":4,"cases":1,"motive":"War","name":"Morgaine"}
+{"_id":225,"fy":1988,"ly":1988,"ep":[7],"seen":4,"cases":1,"motive":"Fascist stooge","name":"Association (the)"}
+{"_id":226,"fy":1988,"ly":1988,"ep":[7],"seen":4,"cases":1,"motive":"Ally with the Nazis","name":"Ratcliffe, George"}
+{"_id":227,"fy":1987,"ly":1987,"ep":[7],"seen":4,"cases":1,"motive":"Kill humans","name":"Chief Caretaker"}
+{"_id":228,"fy":1987,"ly":1987,"ep":[7],"seen":4,"cases":1,"motive":"Kill humans","name":"Kroagnon"}
+{"_id":229,"fy":1987,"ly":1987,"ep":[7],"seen":4,"cases":1,"motive":"Serve big bad","name":"Robotic cleaners"}
+{"_id":230,"fy":1987,"ly":1987,"ep":[7],"seen":4,"cases":1,"motive":"Serve big bad","name":"Robotic crab"}
+{"_id":231,"fy":1987,"ly":1987,"ep":[7],"seen":4,"cases":1,"motive":"Control the Universe","name":"Tetrap"}
+{"_id":232,"fy":1986,"ly":1986,"ep":[6],"seen":4,"cases":1,"motive":"Self-interest","name":"Dibber"}
+{"_id":233,"fy":1986,"ly":1986,"ep":[6],"seen":4,"cases":1,"motive":"Protect","name":"Drathro (L3 robot)"}
+{"_id":234,"fy":1986,"ly":1986,"ep":[6],"seen":4,"cases":1,"motive":"Make money","name":"Kiv, Lord"}
+{"_id":235,"fy":1986,"ly":1986,"ep":[6],"seen":4,"cases":1,"motive":"Capture the Doctor","name":"L1 robot"}
+{"_id":236,"fy":1986,"ly":1986,"ep":[6],"seen":4,"cases":1,"motive":"Serve big bad","name":"Rudge"}
+{"_id":237,"fy":1986,"ly":1986,"ep":[6],"seen":4,"cases":1,"motive":"Kill humans","name":"Vervoids "}
+{"_id":238,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Kill Humans","name":"Gravis"}
+{"_id":239,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Power","name":"Icthar"}
+{"_id":240,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Myrka (the)"}
+{"_id":241,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Nilson"}
+{"_id":242,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Solow, Dr"}
+{"_id":243,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Power","name":"Timanor"}
+{"_id":244,"fy":1984,"ly":1984,"ep":[5],"seen":4,"cases":1,"motive":"Invade","name":"Tractator"}
+{"_id":245,"fy":1984,"ly":1984,"ep":[6],"seen":4,"cases":1,"motive":"Serve big bad","name":"Gastropods"}
+{"_id":246,"fy":1984,"ly":1984,"ep":[6],"seen":4,"cases":1,"motive":"Dominate the universe","name":"Mestor"}
+{"_id":247,"fy":1984,"ly":1984,"ep":[1,5,6],"seen":4,"cases":1,"motive":"Make money","name":"Stotz"}
+{"_id":248,"fy":1984,"ly":1984,"ep":[5,6],"seen":4,"cases":1,"motive":"Hates Morgus","name":"Jek, Sharaz"}
+{"_id":249,"fy":1984,"ly":1984,"ep":[5,6],"seen":4,"cases":1,"motive":"Serve big bad","name":"Jek's androids"}
+{"_id":250,"fy":1984,"ly":1984,"ep":[5,6],"seen":4,"cases":1,"motive":"Make money","name":"Morgus, Trau"}
+{"_id":251,"fy":1983,"ly":1983,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Ergon (the)"}
+{"_id":252,"fy":1983,"ly":1983,"ep":[5],"seen":4,"cases":1,"motive":"Amusement, universal control","name":"Eternals"}
+{"_id":253,"fy":1983,"ly":1983,"ep":[5],"seen":4,"cases":1,"motive":"Viral infection","name":"Hedin, Councillor"}
+{"_id":254,"fy":1983,"ly":1983,"ep":[5],"seen":4,"cases":1,"motive":"Competing for enlightment","name":"Mansell"}
+{"_id":255,"fy":1983,"ly":1983,"ep":[5],"seen":4,"cases":1,"motive":"Kill humans","name":"Mawdryn"}
+{"_id":256,"fy":1983,"ly":1983,"ep":[5],"seen":4,"cases":1,"motive":"Compete for enlightenment","name":"Wrack"}
+{"_id":257,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Destroy the world","name":"Cyberman Android"}
+{"_id":258,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Hindle"}
+{"_id":259,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Minister (of Enlightment/Persuasion)"}
+{"_id":260,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Power, money","name":"Monarch"}
+{"_id":261,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Monarch's androids"}
+{"_id":262,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Plasmatons"}
+{"_id":263,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Serve big bad","name":"Terileptil's android"}
+{"_id":264,"fy":1982,"ly":1982,"ep":[5],"seen":4,"cases":1,"motive":"Kill the Doctor","name":"Terileptils"}
+{"_id":265,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Drink blood, control humans","name":"Aukon (one of Three who rule)"}
+{"_id":266,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Drink blood, control humans","name":"Camilla (one of Three who rule)"}
+{"_id":267,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Kill humans","name":"Foamasi"}
+{"_id":268,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Absorb planets","name":"Great Vampire"}
+{"_id":269,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Grugger"}
+{"_id":270,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Defeat the Doctor","name":"Marshmen"}
+{"_id":271,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Kill the Doctor","name":"Meglos"}
+{"_id":272,"fy":1979,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Continue the Great Journey of life","name":"Nimon, The"}
+{"_id":273,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Conquest","name":"Pangol"}
+{"_id":274,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Slave Trader","name":"Rorvik"}
+{"_id":275,"fy":1979,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Rebuild the Skonnan Empire","name":"Soldeed, The"}
+{"_id":276,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Kill creatures/control humans","name":"Three Who Rule"}
+{"_id":277,"fy":1980,"ly":1980,"ep":[4],"seen":4,"cases":1,"motive":"Drink blood, control humans","name":"Zargo (one of Three who rule)"}
+{"_id":278,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Mineral wealth","name":"Adrasta, Lady"}
+{"_id":279,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Crime","name":"Dymond"}
+{"_id":280,"fy":1978,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Indiscriminate destruction","name":"Kroll"}
+{"_id":281,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Kill everything","name":"Mandrels"}
+{"_id":282,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"War with Daleks","name":"Movellans"}
+{"_id":283,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Steal the Mona Lisa to finance experiments","name":"Scaroth"}
+{"_id":284,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Destroy","name":"Sharrel"}
+{"_id":285,"fy":1978,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Power","name":"Thawn"}
+{"_id":286,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Make money","name":"Tryst"}
+{"_id":287,"fy":1979,"ly":1979,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Wolfweeds"}
+{"_id":288,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Make money","name":"Captain (the)"}
+{"_id":289,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Murder/theft","name":"Cessair of Diplos (The Cailleach/Morgana Montcalm/Senora Camara/Vivien Fay)"}
+{"_id":290,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"To posess a key","name":"Grendel, Count"}
+{"_id":291,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Protect","name":"Ogri"}
+{"_id":292,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Control of alien species","name":"Oracle (the)"}
+{"_id":293,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Seers"}
+{"_id":294,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Taran androids"}
+{"_id":295,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Make money","name":"Vynda-K, Graff"}
+{"_id":296,"fy":1978,"ly":1978,"ep":[4],"seen":4,"cases":1,"motive":"Make money","name":"Xanxia, Queen"}
+{"_id":297,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Kill humans","name":"Capel, Taren"}
+{"_id":298,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Human dictatorship/enslavement","name":"Collector (the)"}
+{"_id":299,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Devour life","name":"Fendahl (inc Fendahleen)"}
+{"_id":300,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Kill everything","name":"Horda"}
+{"_id":301,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Disease, infection","name":"Nucleus"}
+{"_id":302,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"War","name":"Rutans"}
+{"_id":303,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Stael, Maximillion"}
+{"_id":304,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Super Voc SV7 robot"}
+{"_id":305,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"VOC robot"}
+{"_id":306,"fy":1977,"ly":1977,"ep":[4],"seen":4,"cases":1,"motive":"Enslavement","name":"Xoanon"}
+{"_id":307,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"Control of own alien species","name":"Eldrad"}
+{"_id":308,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"Power/ serve big bad","name":"Federico, Count"}
+{"_id":309,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"Power/ serve big bad","name":"Hieronymous"}
+{"_id":310,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"World domination","name":"Mandragora Helix"}
+{"_id":311,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"Kill the Doctor","name":"Mehendri Solon"}
+{"_id":312,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"Universal control","name":"Morbius"}
+{"_id":313,"fy":1976,"ly":1976,"ep":[4],"seen":4,"cases":1,"motive":"Medical experiments","name":"Solon, Dr Mehendri"}
+{"_id":314,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Energy","name":"Anti-matter monster"}
+{"_id":315,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Power","name":"Broton"}
+{"_id":316,"fy":1974,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Mindless destruction","name":"K1 Robot (Giant Robot)"}
+{"_id":317,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Kellman"}
+{"_id":318,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Kill humans","name":"Kraal "}
+{"_id":319,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Kraal androids"}
+{"_id":320,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Loch Ness Monster (Skarasen)"}
+{"_id":321,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Mummies (Osirian service robots)"}
+{"_id":322,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Serve big bad","name":"Scarman, Marcus"}
+{"_id":323,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Medical experiments","name":"Styggron, Chief scientist"}
+{"_id":324,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Destroy all life","name":"Sutekh"}
+{"_id":325,"fy":1974,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"Blackmail","name":"Winters, Miss"}
+{"_id":326,"fy":1975,"ly":1975,"ep":[4],"seen":4,"cases":1,"motive":"World domination","name":"Wirrn/Wirrrn "}
+{"_id":327,"fy":1973,"ly":1974,"ep":[3],"seen":4,"cases":1,"motive":"Crime, serve big bad","name":"Irongron"}
+{"_id":328,"fy":1973,"ly":1973,"ep":[3],"seen":4,"cases":1,"motive":"Kill everything","name":"Drashigs"}
+{"_id":329,"fy":1973,"ly":1973,"ep":[3],"seen":4,"cases":1,"motive":"Power","name":"Kalik"}
+{"_id":330,"fy":1972,"ly":1973,"ep":[1,2,3],"seen":4,"cases":1,"motive":"Serve big bad","name":"Anti-Matter Organism "}
+{"_id":331,"fy":1972,"ly":1973,"ep":[1,2,3],"seen":4,"cases":1,"motive":"Serve big bad","name":"Gell guards "}
+{"_id":332,"fy":1972,"ly":1972,"ep":[3],"seen":4,"cases":1,"motive":"Control of planet","name":"Arcturus"}
+{"_id":333,"fy":1972,"ly":1972,"ep":[3],"seen":4,"cases":1,"motive":"Universal control","name":"Hepesh"}
+{"_id":334,"fy":1971,"ly":1971,"ep":[3],"seen":4,"cases":1,"motive":"Earth invasion/Human extermination","name":"Axons"}
+{"_id":335,"fy":1970,"ly":1970,"ep":[3],"seen":4,"cases":1,"motive":"World domination","name":"Stahlman, Professor"}
+{"_id":336,"fy":1969,"ly":1969,"ep":[2],"seen":4,"cases":1,"motive":"Enslavement","name":"Krotons"}
+{"_id":337,"fy":1966,"ly":1967,"ep":[2],"seen":4,"cases":1,"motive":"Serve big bad","name":"Grey, Solicitor"}
+{"_id":338,"fy":1967,"ly":1967,"ep":[2],"seen":4,"cases":1,"motive":"Power","name":"Kaftan"}
+{"_id":339,"fy":1967,"ly":1967,"ep":[2],"seen":4,"cases":1,"motive":"Power","name":"Klieg, Eric"}
+{"_id":340,"fy":1966,"ly":1967,"ep":[2],"seen":4,"cases":1,"motive":"Smuggle weapons","name":"Trask (The Highlanders)"}
+{"_id":341,"fy":1967,"ly":1967,"ep":[2],"seen":4,"cases":1,"motive":"Destroy the World","name":"Zaroff, Professor"}
+{"_id":342,"fy":1966,"ly":1966,"ep":[1],"seen":4,"cases":1,"motive":"Kill/ enslave humans","name":"Celestial Toymaker"}
+{"_id":343,"fy":1966,"ly":1966,"ep":[1],"seen":4,"cases":1,"motive":"Self interest","name":"Elders (the)"}
+{"_id":344,"fy":1966,"ly":1966,"ep":[1],"seen":4,"cases":1,"motive":"Power","name":"Monoid"}
+{"_id":345,"fy":1966,"ly":1966,"ep":[1],"seen":4,"cases":1,"motive":"Find Treasure","name":"Pike, Samuel "}
+{"_id":346,"fy":1966,"ly":1966,"ep":[1],"seen":4,"cases":1,"motive":"World domination","name":"WOTAN"}
+{"_id":347,"fy":1965,"ly":1965,"ep":[1],"seen":4,"cases":1,"motive":"War","name":"Drahvin"}
+{"_id":348,"fy":1965,"ly":1965,"ep":[1],"seen":4,"cases":1,"motive":"escape doomed planet","name":"Maaga"}
+{"_id":349,"fy":1965,"ly":1965,"ep":[1],"seen":4,"cases":1,"motive":"Power","name":"Moroks, (the)"}
+{"_id":350,"fy":1964,"ly":1964,"ep":[1],"seen":4,"cases":1,"motive":"Religion","name":"Tlotoxl"}
+{"_id":351,"fy":1963,"ly":1963,"ep":[1],"seen":4,"cases":1,"motive":"Power","name":"Kal"}
+{"_id":352,"fy":1963,"ly":1963,"ep":[1],"seen":4,"cases":1,"motive":"Power","name":"Za"}
+{"_id":353,"fy":1971,"ly":1971,"ep":[3],"seen":5,"cases":1,"motive":"Kill humans","name":"Azal"}
+{"_id":354,"fy":1971,"ly":1971,"ep":[3],"seen":5,"cases":1,"motive":"Assist Azal","name":"Bok"}
+{"_id":355,"fy":1968,"ly":1968,"ep":[2],"seen":5,"cases":1,"motive":"Turn Planet into fuel","name":"Dominators"}
+{"_id":356,"fy":1968,"ly":1968,"ep":[2],"seen":5,"cases":1,"motive":"Trick the Doctor","name":"Master of the Land of Fiction"}
+{"_id":357,"fy":1968,"ly":1968,"ep":[2],"seen":5,"cases":1,"motive":"Enslavement","name":"Quarks"}
+{"_id":358,"fy":1968,"ly":1968,"ep":[2],"seen":5,"cases":1,"motive":"Conserve energy","name":"Rago Navigator"}
+{"_id":359,"fy":1968,"ly":1968,"ep":[2],"seen":5,"cases":1,"motive":"Serve big bad ","name":"White Robot"}
+{"_id":360,"fy":1979,"ly":1979,"ep":[4],"seen":6,"cases":1,"motive":"Power","name":"Marshal of Atrios"}
+{"_id":361,"fy":1979,"ly":1979,"ep":[4],"seen":6,"cases":1,"motive":"War","name":"Shadow (the)"}
+{"_id":362,"fy":1979,"ly":1979,"ep":[4],"seen":6,"cases":1,"motive":"Universe domination","name":"Skagra"}
+{"_id":363,"fy":1978,"ly":1978,"ep":[4],"seen":6,"cases":1,"motive":"Time travelling","name":"Vardan"}
+{"_id":364,"fy":1977,"ly":1977,"ep":[4],"seen":6,"cases":1,"motive":"Serve big bad","name":"Chang, Li H'sen"}
+{"_id":365,"fy":1977,"ly":1977,"ep":[4],"seen":6,"cases":1,"motive":"Immortality/return to his time","name":"Greel, Magnus"}
+{"_id":366,"fy":1977,"ly":1977,"ep":[4],"seen":6,"cases":1,"motive":"Kill humans","name":"Peking Homunculus (Mr Sin)"}
+{"_id":367,"fy":1977,"ly":1977,"ep":[4],"seen":6,"cases":1,"motive":"Kill humans","name":"Sin (Mr)"}
+{"_id":368,"fy":1976,"ly":1976,"ep":[4],"seen":6,"cases":1,"motive":"Kill humans","name":"Chase, Harrison"}
+{"_id":369,"fy":1976,"ly":1976,"ep":[4],"seen":6,"cases":1,"motive":"World domination","name":"Krynoids"}
+{"_id":370,"fy":1976,"ly":1976,"ep":[4],"seen":6,"cases":1,"motive":"Flee England","name":"Scorby "}
+{"_id":371,"fy":1975,"ly":1975,"ep":[4],"seen":6,"cases":1,"motive":"Serve big bad","name":"Nyder"}
+{"_id":372,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Power","name":"Azaxyr"}
+{"_id":373,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"World domination","name":"Eckersley"}
+{"_id":374,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Serve big bad","name":"Eight legs"}
+{"_id":375,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Universe domination","name":"Great One (Giant Spiders of Metebelis III)"}
+{"_id":376,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Power","name":"Grover, Charles"}
+{"_id":377,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Serve big bad","name":"Lupton"}
+{"_id":378,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Power","name":"Sskel"}
+{"_id":379,"fy":1974,"ly":1974,"ep":[3],"seen":6,"cases":1,"motive":"Possess time travel","name":"Whitaker"}
+{"_id":380,"fy":1973,"ly":1973,"ep":[3],"seen":6,"cases":1,"motive":"Brainwashing","name":"BOSS"}
+{"_id":381,"fy":1973,"ly":1973,"ep":[3],"seen":6,"cases":1,"motive":"Kill humans","name":"Maggot/Giant Maggot"}
+{"_id":382,"fy":1972,"ly":1972,"ep":[3],"seen":6,"cases":1,"motive":"Destroy the human race","name":"Chief Sea Devil"}
+{"_id":383,"fy":1972,"ly":1972,"ep":[3],"seen":6,"cases":1,"motive":"Serve big bad","name":"Kronos"}
+{"_id":384,"fy":1972,"ly":1972,"ep":[3],"seen":6,"cases":1,"motive":"Career","name":"Marshal of Solos (the) "}
+{"_id":385,"fy":1971,"ly":1971,"ep":[3],"seen":6,"cases":1,"motive":"Make money","name":"Dent"}
+{"_id":386,"fy":1971,"ly":1971,"ep":[3],"seen":6,"cases":1,"motive":"Control Humans","name":"Keller Machine"}
+{"_id":387,"fy":1971,"ly":1971,"ep":[3],"seen":6,"cases":1,"motive":"Power","name":"Mailer, Harry "}
+{"_id":388,"fy":1969,"ly":1969,"ep":[2],"seen":6,"cases":1,"motive":"Invade another alien planet","name":"Caven, Maurice"}
+{"_id":389,"fy":1967,"ly":1968,"ep":[2],"seen":6,"cases":1,"motive":"Serve Big Bad","name":"Benik"}
+{"_id":390,"fy":1968,"ly":1968,"ep":[2],"seen":6,"cases":1,"motive":"Serve big bad","name":"Oak, Mr"}
+{"_id":391,"fy":1968,"ly":1968,"ep":[2],"seen":6,"cases":1,"motive":"Serve big bad","name":"Quill, Mr"}
+{"_id":392,"fy":1967,"ly":1968,"ep":[2],"seen":6,"cases":1,"motive":"Wants to control an organisation","name":"Salamander"}
+{"_id":393,"fy":1968,"ly":1968,"ep":[2],"seen":6,"cases":1,"motive":"World domination","name":"Seaweed Creature (Weed creature)"}
+{"_id":394,"fy":1967,"ly":1967,"ep":[2],"seen":6,"cases":1,"motive":"New home world, absorbing human identities","name":"Chameleons"}
+{"_id":395,"fy":1967,"ly":1967,"ep":[2],"seen":6,"cases":1,"motive":"World domination","name":"Varga"}
+{"_id":396,"fy":1966,"ly":1966,"ep":[2],"seen":6,"cases":1,"motive":"Serve big bad","name":"Bragen"}
+{"_id":397,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Control Humans","name":"Animus"}
+{"_id":398,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Self interest","name":"Aridians"}
+{"_id":399,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Serve big bad","name":"Dracula, Robot Count"}
+{"_id":400,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Serve big bad","name":"Frankenstein's monster robot"}
+{"_id":401,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Serve big bad","name":"Grey Lady robot"}
+{"_id":402,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Attack the Doctor","name":"Gubbage Cone "}
+{"_id":403,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Kill Doctor and companions","name":"Robot Dr Who"}
+{"_id":404,"fy":1965,"ly":1965,"ep":[1],"seen":6,"cases":1,"motive":"Forage, possessed","name":"Zarbi"}
+{"_id":405,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Save alien planet","name":"Aydan"}
+{"_id":406,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Self-interest","name":"Eyesen"}
+{"_id":407,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Save alien planet ","name":"Kala"}
+{"_id":408,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Save alien planet","name":"Morpho"}
+{"_id":409,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Serve big bad","name":"Robomen"}
+{"_id":410,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Save alien planet","name":"Screaming Jungle (The)"}
+{"_id":411,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Fear","name":"Sensorites"}
+{"_id":412,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Serve big bad","name":"Slyther"}
+{"_id":413,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Save alien planet","name":"Vasor"}
+{"_id":414,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Wants to control a Planet","name":"Voord"}
+{"_id":415,"fy":1964,"ly":1964,"ep":[1],"seen":6,"cases":1,"motive":"Serve big Bad","name":"Yartek"}
+{"_id":416,"fy":2009,"ly":2009,"ep":[10],"seen":7,"cases":1,"motive":"Invading Earth","name":"Azlok"}
+{"_id":417,"fy":2009,"ly":2009,"ep":[10],"seen":7,"cases":1,"motive":"Self interest (food)","name":"Skorpius Flies"}
+{"_id":418,"fy":2009,"ly":2009,"ep":[10],"seen":7,"cases":1,"motive":"Power, Kill humans","name":"Stark, Colonel"}
+{"_id":419,"fy":2009,"ly":2009,"ep":[10],"seen":7,"cases":1,"motive":"Hunt/invade","name":"Viperox"}
+{"_id":420,"fy":1970,"ly":1970,"ep":[3],"seen":7,"cases":1,"motive":"Fascist stooge","name":"Elizabeth Shaw, Section Leader (alt universe)"}
+{"_id":421,"fy":1970,"ly":1970,"ep":[3],"seen":7,"cases":1,"motive":"Fascist stooge","name":"Lethbridge-Stewart, Brigade Leader (alt universe)"}
+{"_id":422,"fy":1970,"ly":1970,"ep":[3],"seen":7,"cases":1,"motive":"World domination","name":"Morka"}
+{"_id":423,"fy":1970,"ly":1970,"ep":[3],"seen":7,"cases":1,"motive":"Control Humans","name":"Primord"}
+{"_id":424,"fy":1970,"ly":1970,"ep":[7],"seen":7,"cases":1,"motive":"War","name":"Carrington, General"}
+{"_id":425,"fy":1970,"ly":1970,"ep":[7],"seen":7,"cases":1,"motive":"Serve big bad","name":"Quinlan, Sir James"}
+{"_id":426,"fy":1970,"ly":1970,"ep":[7],"seen":7,"cases":1,"motive":"Crime","name":"Reegan"}
+{"_id":427,"fy":1970,"ly":1970,"ep":[7],"seen":7,"cases":1,"motive":"Serve big bad","name":"Taltalian, Bruno"}
+{"_id":428,"fy":1967,"ly":1967,"ep":[2],"seen":7,"cases":1,"motive":"Serve big bad","name":"Maxtible, Theodore"}
+{"_id":429,"fy":1964,"ly":1964,"ep":[1],"seen":7,"cases":1,"motive":"Serve big bad ","name":"Mongol Bandit "}
+{"_id":430,"fy":1964,"ly":1964,"ep":[1],"seen":7,"cases":1,"motive":"Kill the Doctor","name":"Tegana"}
+{"_id":431,"fy":1968,"ly":1968,"ep":[2],"seen":8,"cases":1,"motive":"Kill the Doctor","name":"Vaughn, Tobias"}
+{"_id":432,"fy":2009,"ly":2009,"ep":[10],"seen":9,"cases":1,"motive":"Hide alien activities","name":"Alliance of Shades (Mister Dread)"}
+{"_id":433,"fy":1969,"ly":1969,"ep":[2],"seen":10,"cases":1,"motive":"Kidnapp","name":"War Chief"}
+{"_id":434,"fy":1969,"ly":1969,"ep":[2],"seen":10,"cases":1,"motive":"Kidnapp","name":"War Lord"}
+{"_id":435,"fy":1965,"ly":1966,"ep":[1],"seen":12,"cases":1,"motive":"Kill humans","name":"Mavic Chen"}
+{"_id":436,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Kill life on earth/make money","name":"Baltazar"}
+{"_id":437,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Gold","name":"Caw "}
+{"_id":438,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Larceny, blackmail and fraud","name":"Gurney, Constantine Ethelred"}
+{"_id":439,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Kill humans","name":"Lok"}
+{"_id":440,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Power","name":"Mantasphid Queen"}
+{"_id":441,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Drain oil from planets, make money","name":"Oil Rig"}
+{"_id":442,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Self interest","name":"Skeleton Crew "}
+{"_id":443,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Serve big bad","name":"Squawk"}
+{"_id":444,"fy":2007,"ly":2007,"ep":[10],"seen":13,"cases":1,"motive":"Make money","name":"Ulysees Meregrass"}
