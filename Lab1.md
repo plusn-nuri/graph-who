@@ -1,6 +1,10 @@
-# mongodb-graph-who
+__mongodb-graph-who__
 
-# Lab 1
+Lab 1
+===========
+
+Overview
+-----------
 
 1. Seed the database
 1. Perfom simple find() queries to familiarize yourself with the schema of collection `nodes` and `arcs`

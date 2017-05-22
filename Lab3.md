@@ -1,11 +1,13 @@
-# mongodb-graph-who
+__mongodb-graph-who__
 
-# Lab 3
+Lab 3
+===========
 
-## Overview
+Overview
+----------
 
 This is where real detective work happens!
-There is a particularly devious adversary known as _Cybermen_. We can finde serveral of these in our `adversary` collection, across multiple years and episodes.
+>There is a particularly devious adversary known as _Cybermen_. We can finde serveral of these in our `adversary` collection, across multiple years and episodes.
 Turns out, there have been a many reports of people who whitnessed the Cyberment, or who know someone who did. Even more mysteriously, in each documented case, a cypher has been found left as a potential clue to the whereabouts of the Doctor. We'll try and connect the dots using a compound pipeline. 
 
 
