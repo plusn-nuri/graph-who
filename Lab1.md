@@ -32,19 +32,64 @@ mongoimport --db "graph-who" --collection nodes nodes.json --drop
 
 Connect to the **"graph-who"** database.
 
-Aggregate over the `node` collection.
+Aggregate over the `nodes` collection.
 
-The first pipeline stage should match only documents for the person named *river*.
+1. The first pipeline stage should match only documents for the person named *river*.
+1. The second pipeline stage should look to see who has an arc related to *river*:
+   Starting with the constant value *river* lookup into the collection `arcs` and locate the zero-th relation (without descending further). We want to base this on River's **arc** field, and connect it to the **_id** field.
 
-The second pipeline stage should look to see who has an arc related to *river*: 
-1. Starting with the constant value *river* lookup into the collection `arcs` and locate the zero-th relation (without descending further).
-1. We want to base this on River's `arcs` field, and connect it to the `_id` field.
+- You should have seen _one_ document returned.
+- The document returned should have _two_ connections.
 
-You should have seen _one_ document returned.
-The document returned should have _two_ connections.
-
-Now change the value of the `startWith` field to be "---". Run the aggregation again.
+### Excercise 2
+1. Change the value of the `startWith` field to be "---", and run the aggregation again.
 Did a document return from the aggretaion? Why is that? (No filed in any document in `arcs` has '---' anywhere.)
 
-Now change the value of the `startWith` field to be *river* again. Run $graphLookup without the $match operator.
+1. Change the value of the `startWith` field to be *river* again. Run _$graphLookup_ without the $match operator.
 How many documents are returned?
+
+<!--
+
+db.nodes.aggregate([{$match:{name:'river'}}])
+db.nodes.aggregate([
+    {$match:{name:'river'}},
+    {$graphLookup : {
+        from : 'arcs',
+        startWith : 'river',
+        connectFromField : 'arc',
+        connectToField : '_id',
+        as : 'arcs',
+        maxDepth : 0
+    	}
+    }
+])
+
+db.nodes.aggregate([
+    {$match:{name:'river'}},
+    {$graphLookup : {
+        from : 'arcs',
+        startWith : '---',
+        connectFromField : 'arc',
+        connectToField : '_id',
+        as : 'arcs',
+        maxDepth : 0
+    	}
+    }
+])
+
+
+db.nodes.aggregate([
+    {$graphLookup : {
+        from : 'arcs',
+        startWith : 'river',
+        connectFromField : 'arc',
+        connectToField : '_id',
+        as : 'arcs',
+        maxDepth : 0
+    	}
+    }
+])
+
+
+
+-->
