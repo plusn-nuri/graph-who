@@ -8,10 +8,12 @@ Overview
 
 1. Seed the database
 1. Perfom simple find() queries to familiarize yourself with the schema of collection `nodes` and `arcs`
-1. Perfomr aggregations using `$graphLookup` 
+1. Perfom aggregations using `$graphLookup` 
 
 
 ## 1 Seeding the database
+
+> If you are given a Mongo connection string for this part during live training, you may skip this part.
 
 Data for the exploration can be found in the *data* directory.
 The data is stored in JSON format, and can be imported using *mongoimport*
@@ -27,6 +29,8 @@ mongoimport --db "graph-who" --collection nodes nodes.json --drop
 ## 2 Familiarize with schema
 
 ### Excercise 1
+
+Connect to the **"graph-who"** database.
 
 Aggregate over the `node` collection.
 
