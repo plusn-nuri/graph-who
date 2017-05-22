@@ -99,11 +99,6 @@ Connected to
             }
         }
     ]).pretty()
-
-
-
-
-    
 ```
 
 #### Data sources used for creating this exploration include:
