@@ -19,7 +19,7 @@ mongoimport --db "graph-who" --collection people people.json --drop
 
 ### Syntax Basics
 
-Query one doc
+#### Query one doc using the Aggregation Framework
 
 ```javascript
     db.nodes.aggregate([{$match:{name:"dr"}}])
@@ -27,9 +27,12 @@ Query one doc
     db.arcs.aggregate([{$match:{_id:"amy"}}])
     db.arcs.aggregate([{$match:{arc:"amy"}}])
 ```
-Connected to 
+
+#### Adding a graph pipeline stage
+
 
 ```javascript
+    // Relate the current pipeline node to a constant (value of 'from' is fixed)
     db.nodes.aggregate([
         {$match:{name:"dr"}},
         {$graphLookup:{
@@ -43,7 +46,7 @@ Connected to
         }
     ]).pretty()
 
-    // Relate to original node to connected graph arcs
+    // Relate the current pipeline node to connected graph arcs (value of 'from' is dynamic)
     db.nodes.aggregate([
         {$match:{name:"dr"}},
         {$graphLookup:{
@@ -57,7 +60,7 @@ Connected to
         }
     ]).pretty()
 
-    // don't be so shallow
+    // Descend further in the graph by increasing the maxDepth field
     db.nodes.aggregate([
         {$match:{name:"dr"}},
         {$graphLookup:{
@@ -71,7 +74,7 @@ Connected to
         }
     ]).pretty()
 
-    // how deep?
+    // Add an output field named 'howDeep' containing the depth of the connected graph node
     db.nodes.aggregate([
         {$match:{name:"dr"}},
         {$graphLookup:{
@@ -80,28 +83,14 @@ Connected to
             connectFromField: 'arc',
             connectToField: '_id',
             as: 'arcs',
-            maxDepth: 2
+            maxDepth: 2,
             depthField: 'howDeep'
-            }
-        }
-    ]).pretty()
-
-    // Relate to original node to connected graph arcs
-    db.nodes.aggregate([
-        {$match:{name:"dr"}},
-        {$graphLookup:{
-            from: 'arcs',
-            startWith: '$name',
-            connectFromField: 'arc',
-            connectToField: '_id',
-            as: 'arcs',
-            maxDepth: 0
             }
         }
     ]).pretty()
 ```
 
-#### Data sources used for creating this exploration include:
+### Data sources used for creating this exploration include:
 1.   https://docs.google.com/spreadsheets/d/1-wpscGBquVJnI5i9lIygBQWW-OrP_ypDng4ZuQvwLeU/edit#gid=0
 42.   Wikipedia
 3.   Fan pages

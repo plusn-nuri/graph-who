@@ -7,8 +7,8 @@ Overview
 ----------
 
 This is where real detective work happens!
->There is a particularly devious adversary known as _Cybermen_. We can finde serveral of these in our `adversary` collection, across multiple years and episodes.
-Turns out, there have been a many reports of people who whitnessed the Cyberment, or who know someone who did. Even more mysteriously, in each documented case, a cypher has been found left as a potential clue to the whereabouts of the Doctor. We'll try and connect the dots using a compound pipeline. 
+>There is a particularly devious adversary known as _Cybermen_. We can find several of these in our `adversary` collection, across multiple years and episodes.
+Turns out, there have been a many reports of people who witnessed the Cybermen, or who know someone who did. Even more mysteriously, in each documented case, a cypher has been found left as a potential clue to the whereabouts of the Doctor. We'll try and connect the dots using a compound pipeline. 
 
 
 ## 1 Familiarize with schema
@@ -18,8 +18,8 @@ Turns out, there have been a many reports of people who whitnessed the Cyberment
 
 ### Excercise 1
 
-1. Create a basic aggregation over the `adversary` collection. Filter the documents to only match those with the **name** begining with **"Cyber"** (Hint: use anchored regex).
-1. Add a $graphLookup pipeline stage from the `people` collection. Start with the **_id** field, connecting from the **knows** field to the **whitness** field, naming the new field **association**. 
+1. Create a basic aggregation over the `adversary` collection. Filter the documents to only match those with the **name** beginning with **"Cyber"** (Hint: use anchored regex).
+1. Add a $graphLookup pipeline stage from the `people` collection. Start with the **_id** field, connecting from the **knows** field to the **witness** field, naming the new field **association**. 
 1. Check to see you have 6 resulting documents. You can do so by appending _.toArray().length_ after the _aggregate(...)_ command
 
 ### Excercise 2
@@ -40,7 +40,7 @@ db.adversary.aggregate([
         from: 'people',
         startWith: '$_id',
         connectFromField: 'knows',
-        connectToField: 'whitness',
+        connectToField: 'witness',
         as: 'association',
         }
     },

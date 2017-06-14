@@ -7,8 +7,8 @@ Overview
 -----------
 
 1. Seed the database
-1. Perfom simple find() queries to familiarize yourself with the schema of collection `nodes` and `arcs`
-1. Perfom aggregations using `$graphLookup` 
+1. Perform simple find() queries to familiarize yourself with the schema of collection `nodes` and `arcs`
+1. Perform aggregations using `$graphLookup` 
 
 
 ## 1 Seeding the database
@@ -28,7 +28,7 @@ mongoimport --db "graph-who" --collection nodes nodes.json --drop
 
 ## 2 Familiarize with schema
 
-### Excercise 1
+### Exercise 1
 
 Connect to the **"graph-who"** database.
 
@@ -36,14 +36,14 @@ Aggregate over the `nodes` collection.
 
 1. The first pipeline stage should match only documents for the person named *river*.
 1. The second pipeline stage should look to see who has an arc related to *river*:
-   Starting with the constant value *river* lookup into the collection `arcs` and locate the zero-th relation (without descending further). We want to base this on River's **arc** field, and connect it to the **_id** field.
+   Starting with the constant value *river* lookup into the collection `arcs` and locate the zero-th relation (without descending further). We want to the connection from the document's **arc** field, and connect it to the **_id** field.
 
 - You should have seen _one_ document returned.
 - The document returned should have _two_ connections.
 
-### Excercise 2
+### Exercise 2
 1. Change the value of the `startWith` field to be "---", and run the aggregation again.
-Did a document return from the aggretaion? Why is that? (No filed in any document in `arcs` has '---' anywhere.)
+Did a document return from the aggregation? Why is that? (No filed in any document in `arcs` has '---' anywhere.)
 
 1. Change the value of the `startWith` field to be *river* again. Run _$graphLookup_ without the $match operator.
 How many documents are returned?
