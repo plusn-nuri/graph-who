@@ -36,7 +36,7 @@ Aggregate over the `nodes` collection.
 
 1. The first pipeline stage should match only documents for the person named *river*.
 1. The second pipeline stage should look to see who has an arc related to *river*:
-   Starting with the constant value *river* lookup into the collection `arcs` and locate the zero-th relation (without descending further). We want to the connection from the document's **arc** field, and connect it to the **_id** field.
+   Starting with the constant value *river* lookup into the collection `arcs` and locate the zero-th relation (without descending further). We want to the connection _from_ the document's `_id` field, and connect it _to_ the `arc` field.
 
 - You should have seen _one_ document returned.
 - The document returned should have _two_ connections.
@@ -50,14 +50,16 @@ How many documents are returned?
 
 <!--
 
-db.nodes.aggregate([{$match:{name:'river'}}])
+db.nodes.find({name:'river'})
+db.arcs.find()
+
 db.nodes.aggregate([
     {$match:{name:'river'}},
     {$graphLookup : {
         from : 'arcs',
         startWith : 'river',
-        connectFromField : 'arc',
-        connectToField : '_id',
+        connectFromField : '_id',
+        connectToField : 'arc',
         as : 'arcs',
         maxDepth : 0
     	}
@@ -69,8 +71,8 @@ db.nodes.aggregate([
     {$graphLookup : {
         from : 'arcs',
         startWith : '---',
-        connectFromField : 'arc',
-        connectToField : '_id',
+        connectFromField : '_id',
+        connectToField : 'arc',
         as : 'arcs',
         maxDepth : 0
     	}
@@ -82,8 +84,8 @@ db.nodes.aggregate([
     {$graphLookup : {
         from : 'arcs',
         startWith : 'river',
-        connectFromField : 'arc',
-        connectToField : '_id',
+        connectFromField : '_id',
+        connectToField : 'arc',
         as : 'arcs',
         maxDepth : 0
     	}
