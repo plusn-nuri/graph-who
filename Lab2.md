@@ -19,7 +19,7 @@ Overview
 
 Aggregate over the `companion` collection.
 The first pipeline stage should match only documents for **'Amy Pond'**.
-The second pipeline stage should look to see who was a potential companion sighted with her. The document field `seen` indicates episodes Amy was in. Starting with episode **'6'**, find others in those same episodes, without descending deeper. Use the same collection to look into, and the `seen` field to connect _to_ as well as _from_. Name the graph-connected field **anlongside**.
+The second pipeline stage should look to see who was a potential companion sighted with her. The document field `seen` indicates episodes Amy was in. Starting with episode **'6'**, find others in those same episodes, without descending deeper. Use the same collection to look into, and the `seen` field to connect _to_ as well as _from_. Name the graph-connected field **alongside**.
 
 How many documents returned?
 How many entries in the **alongside** field? Does it look right?
